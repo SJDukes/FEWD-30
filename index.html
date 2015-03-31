@@ -1,8 +1,52 @@
 <!DOCTYPE html>
 
+
 <html>
   <head>
-    <title>MY Website</title>
+    <title>Stephanie Dukes</title>
+
+    <style media="screen">
+      body {
+        background-color: honeydew;
+        font-family: Arial;
+      }
+
+      header {
+        text-align: center;
+      }
+
+      main {
+        background-color: white;
+        border: 2px solid;
+        border-color: slategray;
+        border-radius: 10px;
+        padding: 50px
+      }
+
+      img {
+        border: 2px solid;
+        border-color: slategray;
+        border-radius: 100%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+      }
+
+      a:link {
+        text-decoration: none;
+        color: black;
+      }
+
+      a:hover {
+        color: yellow;
+      }
+
+      a:visited {
+        color: steelblue;
+      }
+
+    </style>
+
   </head>
   <body>
     <header>
@@ -11,6 +55,9 @@
         length="150"
         >
       <h1>Stephanie Dukes</h1>
+
+    </header>
+    <main>
       <p>
         MTS, Enabler of all things at
         <a href="http://www.Advent.com"
@@ -18,13 +65,10 @@
           Advent Software
           </a>
       </p>
-      <p>I bribe <img src="https://graph.facebook.com/shanegela/picture">
-       with Twix so she will come say hi to me</p>
-    </header>
-    <main>
+      <p>Find me on:</p>
       <ul>
         <li>
-           <a href="https://facebook.com/sjdfig" target="_blank">Facebook</a>
+          <a href="https://facebook.com/sjdfig" target="_blank">Facebook</a>
         </li>
         <li>
             <a href="https://github.com/SJDukes" target="_blank">Github</a>
@@ -37,7 +81,9 @@
         </li>
       </ul>
     </main>
-    <footer>
+
+    <!--Inline style, this is bad-->
+    <footer style ="text-align: center; color: slategray;">
       <p>Last updated March 30th</p>
     </footer>
   </body>
