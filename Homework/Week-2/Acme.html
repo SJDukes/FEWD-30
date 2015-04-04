@@ -7,36 +7,149 @@
   <style media="screen">
     body {
       background: url(http://sjdukes.github.io/FEWD-30/Homework/Week-2/images/background.png);
-
+      font-family: arial;
+      color: black;
     }
 
     header {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        min-width: 400px;
         background-color: #c4c4c4;
+        border: 1px;
+        border-style: solid;
+        border-color: black;
+    }
+
+    img {
+      margin-top: 20px;
+      margin-right: 400px;
+      margin-bottom: 20px;
+      margin-left: 10px;
+    }
+
+    nav {
+      position: fixed;
+      right: 0;
+      top: 0;
+      display: inline;
+      margin-top: 30px;
+      margin-right: 10px;
+      color: white;
+      font-size: 24px;
+      text-shadow: 0px 0px 10px black;
 
     }
 
-    main {
+    a:link {
+      position: relative;
+      text-decoration: none;
+      color: white;
+      }
 
+    a:visited {
+      text-decoration: none;
+      color: blue;
+    }
+
+    a:hover {
+      text-decoration: none;
+      color: yellow;
+    }
+
+    a:active {
+      text-decoration: none;
+      color: orange;
+    }
+
+    button {
+      position: relative;
+      background: blue;
+      color: white;
+      border: solid;
+      border-color: blue;
+      border-radius: 7px;
+      font-size: 24px;
+      text-shadow: 0px 0px 10px black;
+      }
+
+    main {
+      background: white;
+      border: 1px;
+      border-style: solid;
+      border-color: gray;
+      border-radius: 7px;
+      margin-top: 200px;
+      margin-right: auto;
+      margin-left: auto;
+      box-shadow: 0px 0px 30px gray;
+      max-width: 750px;
+      min-width: 500px;
+
+    }
+
+    #intro {
+      margin-right: auto;
+      margin-left: auto;
+      padding: 40px;
 
     }
 
     footer {
-
-
+      text-align: center;
+      color: gray;
     }
 
+    hr {
+      margin-top: 50px;
+      margin-right: auto;
+      margin-left: auto;
+      display: block;
+      max-width: 750px;
+      min-width: 500px;
+      box-shadow: 0px 0px 5px gray;
+    }
 
   </style>
 
   <body>
     <header>
-      <img src="C:\Users\sdukes\Documents\GitHub\FEWD-30\Homework\Week-2\images\acme-corp.jpg" alt="" />
+      <img src="http://sjdukes.github.io/FEWD-30/Homework/Week-2/images/acme-corp.jpg" alt="Opps no header"
+      width="200"
+      length="55"
+
+      />
+      <nav>
+        <a href="www.bing.com">Products</a>
+        <button name="button">Sign Up</button>
+      </nav>
     </header>
     <main>
-
+      <div id=intro>
+        <h1>Welcome to Acme Corp!</h1>
+        <p>
+          Master cleanse Kickstarter wolf heirloom tote bag, gluten-free pour-over. Synth tote bag Pitchfork mixtape
+          bespoke slow-carb McSweeney's, aesthetic hashtag pickled gentrify dreamcatcher PBR tattooed. Cray gentrify
+          ethical skateboard Austin. Schlitz bespoke Odd Future Wes Anderson +1. Polaroid lumbersexual wayfarers umami.
+          Umami disrupt 3 wolf moon Austin fixie Pinterest XOXO, you probably haven't heard of them bespoke drinking vinegar
+          actually paleo single-origin coffee fashion axe. +1 fingerstache bitters, Vice biodiesel distillery small batch freegan
+          aesthetic ethical meditation.
+          <br>
+          <br>
+          Brunch small batch leggings Tumblr jean shorts Wes Anderson semiotics squid. Photo booth mixtape Shoreditch, McSweeney's
+          heirloom salvia pickled irony Bushwick migas dreamcatcher Marfa messenger bag kale chips umami. Plaid tattooed cold-pressed
+          keytar semiotics sustainable stumptown PBR beard, selfies letterpress. Banksy flannel kogi cardigan vinyl slow-carb Helvetica.
+          Roof party Bushwick plaid disrupt XOXO meditation. Meh chillwave hella, PBR paleo High Life whatever literally
+        </p>
+      </div>
     </main>
     <footer>
-
+      <p>
+        <hr>
+        Copyright, 2015
+      </p>
     </footer>
   </body>
 </html>
