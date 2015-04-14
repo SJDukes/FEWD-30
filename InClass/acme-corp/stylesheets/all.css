@@ -119,3 +119,8 @@
     color: white;
     margin: 20px 70px;
   }
+
+  .form-group {
+    display: block;
+
+  }
