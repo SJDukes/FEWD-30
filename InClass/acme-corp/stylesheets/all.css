@@ -1,3 +1,9 @@
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
 
   html {
     background-color: #EEEDEC;
@@ -37,7 +43,7 @@
 
   main,
   footer {
-    max-width: 600px;
+    max-width: 700px;
     margin: 0 auto;
     padding: 30px;
   }
@@ -73,4 +79,43 @@
     border: 1px solid #213A82;
     text-shadow: 0 1px 0 #213A82;
     border-radius: 8px;
+  }
+
+  ul {
+    display: flex;
+  }
+  .two-column .sidebar {
+    width: 200px;
+  }
+
+  .two-column .main {
+    flex: 1;
+  }
+
+  .products {
+    margin: 20px;
+    padding: 3px;
+  }
+
+  .products img {
+    border-color: gray;
+    border-style: solid;
+    border-radius: 2px;
+    padding: 2px;
+  }
+
+  .products p {
+    padding: 10px;
+    margin: 20px 60px;
+  }
+
+  .button-Add-Cart {
+    border-radius: 8px;
+    border-style: solid;
+    border-color: darkred;
+    background: darkred;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: white;
+    margin: 20px 70px;
   }
