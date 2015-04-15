@@ -15,10 +15,11 @@
 
   <body>
     <header>
-      <img src="images/acme-corp.jpg" width="200" height="55" id="logo" alt="ACME Anvil Corporation">
+      <a href="index.html"><img src="images/acme-corp.jpg" width="200" height="55" id="logo" alt="ACME Anvil Corporation"></a> 
 
       <nav>
         <ol>
+          <li><a href="#">About ACME Corp</a> </li>
           <li><a href="products.html">Products</a></li>
           <li><a href="signup.html">Sign Up</a></li>
         </ol>
@@ -26,22 +27,30 @@
     </header>
 
     <main>
-
+      <h1>Sign Up</h1>
     <form class="" action="index.html" method="post">
       <div class="form-group">
         <label for="fname">  First Name</label>
-        <input id="fname" class="fname" placeholder="First Name" type="text" name="First name" value="">
+        <input id="fname" class="fname" placeholder="Jane" type="text" name="First name" value="">
       </div>
       <div class="form-group">
         <label for="lname">Last Name</label>
-        <input id="lname" placeholder="Last Name" type="text" name="Last name" value="">
+        <input id="lname" placeholder="Doe" type="text" name="Last name" value="">
       </div>
       <div class="form-group">
         <label for="email">Email</label>
-        <input id="email" placeholder="Email" type="email" name="Email" value="">
+        <input id="email" placeholder="Jane.Doe@example.com" type="email" name="Email" value="">
       </div>
       <div class="form-group">
-        <input type="submit" name="Submit" value="Submit my info">
+        <label for="pword">Password</label>
+        <input id="pword" placeholder="Create password" type="password" name="password" value="">
+      </div>
+      <div class="form-group">
+        <input id="chkBox" type="checkbox" name="chkBox" value="">
+        <label for="chkBox">Agree to our terms of service</label>
+      </div>
+      <div class="form-group">
+        <input id="SignButton" type="submit" name="Submit" value="Sign Up">
       </div>
 
 

@@ -118,9 +118,24 @@
     text-decoration: none;
     color: white;
     margin: 20px 70px;
+    display: block;
   }
 
-  .form-group {
-    display: block;
+.form-group {
+  padding: 8px;
+ }
 
+  .form-group label {
+    padding-right: 8px;
+    font-family: "Lucida Grande", sans-serif;
+    font-weight: bold;
+  }
+
+  .form-group input {
+    border-radius: 3px;
+    border-color: navajowhite;
+    /*box-shadow: 0px 0px 10px teal;*/
+  }
+  .form-group #SignButton {
+    border-color: lightgray;
   }
