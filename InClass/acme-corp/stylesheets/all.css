@@ -121,9 +121,9 @@
     display: block;
   }
 
-.form-group {
-  padding: 8px;
- }
+  .form-group {
+    padding: 8px;
+   }
 
   .form-group label {
     padding-right: 8px;
