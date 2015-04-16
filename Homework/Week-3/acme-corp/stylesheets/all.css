@@ -4,7 +4,6 @@
     padding: 0;
   }
 
-
   html {
     background-color: #EEEDEC;
     background-image: url(../images/background.png);
@@ -121,21 +120,34 @@
     display: block;
   }
 
-.form-group {
-  padding: 8px;
- }
+  .form-signup {
+    max-width:400px;
+    margin:0;
+  }
 
-  .form-group label {
-    padding-right: 8px;
-    font-family: "Lucida Grande", sans-serif;
+  .form-group1, .form-group2 {
+    margin:10px;
+    overflow:auto;
+   }
+
+  .form-group2 label {
     font-weight: bold;
+    float:left;
   }
 
-  .form-group input {
-    border-radius: 3px;
-    border-color: navajowhite;
-    /*box-shadow: 0px 0px 10px teal;*/
+  .form-group2 input {
+    border-radius: 6px;
+    height:25px;
+    width:240px;
+    float:right;
   }
-  .form-group #SignButton {
+
+  .form-group1 #SignButton {
     border-color: lightgray;
+  }
+
+  .form-group1 input {
+    border-style:1px solid grey;
+    border-radius:2px;
+    padding:5px 10px;
   }
