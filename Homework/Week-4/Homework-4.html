@@ -1,0 +1,73 @@
+<!--Functions for week 4 homework-->
+
+<script type="text/javascript">
+
+function longestSide (a,b) {
+  var a = parseFloat(a);
+  var b = parseFloat(b);
+  //Calculate the Pythagorean Theorem (a * a) + (b * B) = (c * c)
+  var result = Math.sqrt((a*a)+(b*b));
+  return result;
+}
+
+function pyTheorem() {
+  // Ask for the two sides they know
+  var a = prompt("What is a?");
+  var b = prompt("What is b?");
+  // call longestSide function
+  var c = longestSide(a,b);
+  // Return answer
+  alert("The longest side is " + c);
+}
+
+function circumference (r) {
+  var r = parseInt(r);
+  // Calculate the circumference
+  var result = 2 * Math.PI * r;
+  return result;
+}
+
+function findRadius () {
+  // Ask for Radius
+  var r = prompt("What is the radius of the circle?");
+  // Call circumfernce function
+  var circ = circumference(r);
+  // Return answer
+  alert("The circumference is " + circ);
+}
+
+function celsius (f) {
+  var f = parseInt(f);
+  // Convert F to C
+  var result = (f-32)*5/9;
+  return result;
+}
+
+function cnvrtFarenheit() {
+  // Ask for Farenheit
+  var f = prompt("What's the temp outside in Farenheit?")
+  // Call celsius function
+  var cel = celsius(f);
+  // Return answer
+  alert("In Celsius that is " + cel)
+}
+
+function centimeter (i) {
+  var i = parseInt(i);
+  // Convert Inches to Centimeters
+  var result = i/0.39370;
+  return result;
+
+}
+
+function cnvrtInches () {
+  // Ask for Inches
+  var i = prompt("What is the number of inches?");
+  // Call centimeter function
+  var cent = centimeter(i);
+  // Return answer
+  alert("In centimeters, that would be " + cent);
+}
+
+
+</script>
