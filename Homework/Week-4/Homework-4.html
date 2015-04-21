@@ -12,8 +12,8 @@ function longestSide (a,b) {
 
 function pyTheorem() {
   // Ask for the two sides they know
-  var a = prompt("What is a?");
-  var b = prompt("What is b?");
+  a = prompt("What is a?");
+  b = prompt("What is b?");
   // call longestSide function
   var c = longestSide(a,b);
   // Return answer
@@ -21,7 +21,7 @@ function pyTheorem() {
 }
 
 function circumference (r) {
-  var r = parseInt(r);
+  r = parseInt(r);
   // Calculate the circumference
   var result = 2 * Math.PI * r;
   return result;
@@ -37,7 +37,7 @@ function findRadius () {
 }
 
 function celsius (f) {
-  var f = parseInt(f);
+  f = parseInt(f);
   // Convert F to C
   var result = (f-32)*5/9;
   return result;
@@ -53,7 +53,7 @@ function cnvrtFarenheit() {
 }
 
 function centimeter (i) {
-  var i = parseInt(i);
+  i = parseInt(i);
   // Convert Inches to Centimeters
   var result = i/0.39370;
   return result;
