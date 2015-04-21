@@ -1,0 +1,47 @@
+<p>
+  Hello World!
+</p>
+
+<script type="text/javascript">
+//
+// 1. Create the element
+//  var element_name = document.createElement("<Tag type>");
+// 2. Set the attributes
+// element_name.setAttribute("attribute","Value");
+// 3. Set the textContent
+// element_name.textContent = "Text";
+// 4. Append to the body or within the parent element
+// document.body.appendChild(element_name);
+
+
+//Access the paragraph
+document.querySelector("p");
+
+//Set the paragraphs's textContent
+  var paragraph = document.querySelector("p");
+  paragraph.textContent = "Goodbye World!";
+
+//Add a list to a page
+  var unOrderedList = document.createElement("ul");
+  var listItem = document.createElement("li")
+  document.body.appendChild(unOrderedList);
+  listItem.textContent = "Item 1";
+  unOrderedList.appendChild(listItem);
+  var listItem2 = document.createElement("li")
+  document.body.appendChild(unOrderedList);
+  listItem2.textContent = "Item 2";
+  unOrderedList.appendChild(listItem2);
+
+//Add a image to a page
+var newImage = document.createElement("img");
+newImage.setAttribute("src", "http://images.cdn.bigcartel.com/bigcartel/product_images/123597156/max_h-1000+max_w-1000/lamb_sausage_mild.jpg")
+document.body.appendChild(newImage);
+
+//add a link to a page
+var newLink= document.createElement("a");
+newLink.textContent = "Muttville";
+newLink.setAttribute("href", "http://www.muttville.org")
+document.body.appendChild(newLink);
+
+
+</script>
