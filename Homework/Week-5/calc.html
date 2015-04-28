@@ -48,9 +48,9 @@ button { background-color: #58c0f5; color: white; border-radius: 3px; }
       var secondOperand = document.getElementById('second-operand');
       var result = document.getElementById('result');
 
-      var x = firstOperand.textContent;
-      var y = secondOperand.textContent;
-      var sum = parseInt(x) + parseInt(y);
+      var x = parseInt(firstOperand.textContent);
+      var y = parseInt(secondOperand.textContent);
+      var sum = x+y;
 
       result.textContent = sum;
   }
@@ -65,9 +65,9 @@ button { background-color: #58c0f5; color: white; border-radius: 3px; }
       var secondOperand = document.getElementById('second-operand');
       var result = document.getElementById('result');
 
-      var x = firstOperand.textContent;
-      var y = secondOperand.textContent;
-      var sub = parseInt(x) - parseInt(y);
+      var x = parseInt(firstOperand.textContent);
+      var y = parseInt(secondOperand.textContent);
+      var sub = x-y;
 
       result.textContent = sub;
   }
@@ -82,10 +82,10 @@ button { background-color: #58c0f5; color: white; border-radius: 3px; }
       var secondOperand = document.getElementById('second-operand');
       var result = document.getElementById('result');
 
-      var x = firstOperand.textContent;
-      var y = secondOperand.textContent;
+      var x = parseInt(firstOperand.textContent);
+      var y = parseInt(secondOperand.textContent);
 
-      var mul = parseInt(x) * parseInt(y);
+      var mul = x*y;
       result.textContent = mul;
   }
 
@@ -99,10 +99,10 @@ button { background-color: #58c0f5; color: white; border-radius: 3px; }
       var secondOperand = document.getElementById('second-operand');
       var result = document.getElementById('result');
 
-      var x = firstOperand.textContent;
-      var y = secondOperand.textContent;
+      var x = parseInt(firstOperand.textContent);
+      var y = parseInt(secondOperand.textContent);
 
-      var divd = parseInt(x) / parseInt(y);
+      var divd = x/y;
       result.textContent = divd;
   }
 
