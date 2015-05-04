@@ -1,0 +1,54 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>TodoList</title>
+
+    <style media="screen">
+    #todo-submit{
+      margin-left: 50px;
+
+    }
+    </style>
+
+  </head>
+  <body>
+    <header>
+      <form id="new-todo=item-form" action="index.html" method="post">
+        <input type="text" id="new-todo-item" placeholder = "What do you want to do?">
+        <button id="todo-submit" type="submit">Create todo</button>
+        <hr>
+      </form>
+    </header>
+    <main>
+      <ul id="todo-list">
+        
+      </ul>
+    </main>
+
+
+    <script>
+
+      var form = document.querySelector("form");
+      var input = form.querySelector("#new-todo-item"); //using the form variable to grab the input
+      var list = document.querySelector("#todo-list");
+
+      // create the list item
+      function createTodoItem(text) {
+        var listItem = document.createElement("li");
+        listItem.textContent = text;
+        listItem.setAttribute("class", "todo-item");
+        return listItem;
+      }
+      //Submit the new todoitem and reset the form
+      function formSubmitted() {
+        event.preventDefault();
+        list.appendChild(createTodoItem(input.value));
+        form.reset();
+      }
+
+      form.addEventListener("submit", formSubmitted);
+      input.focus();
+    </script>
+  </body>
+</html>

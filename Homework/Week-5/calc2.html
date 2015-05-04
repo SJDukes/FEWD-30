@@ -1,0 +1,104 @@
+<style>
+body { font-size: 20px; font-family: sans-serif; }
+
+td { width: 100px; text-align: center; }
+.placeholder, button { width: 100%; }
+.placeholder { height: 23px; border: 1px solid #bababa; border-radius: 3px; }
+button { cursor: pointer; border: 1px solid #58c0f5; color: #58c0f5; background-color: white; font: inherit; }
+button { background-color: #58c0f5; color: white; border-radius: 3px; }
+</style>
+
+<table>
+  <tr>
+    <td>
+      <div id="first-operand" class="placeholder" contenteditable></div>
+    </td>
+    <td>
+      <div id="second-operand" class="placeholder" contenteditable></div>
+    </td>
+    <td>
+      =
+    </td>
+    <td>
+      <div id="result" class="placeholder"></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <button id="add-button" class="inverted-button">+</button>
+    </td>
+    <td>
+      <button id="subtract-button" class="inverted-button">-</button>
+    </td>
+    <td>
+      <button id="multiply-button" class="inverted-button">*</button>
+    </td>
+    <td>
+      <button id="divide-button" class="inverted-button">/</button>
+    </td>
+  </tr>
+</table>
+
+<script>
+  // Your code goes here
+
+
+  var subtract = document.querySelector("#subtract-button");
+  var multiply = document.querySelector("#multiply-button");
+  var divide = document.querySelector("#divide-button");
+
+  var firstOperand = document.querySelector('#first-operand');
+  var secondOperand = document.querySelector('#second-operand');
+  var result = document.querySelector('#result');
+
+  var x = parseInt(firstOperand.textContent);
+  var y = parseInt(secondOperand.textContent);
+
+  add.addEventListener("click", addClick);
+
+
+    function calculator (operation) {
+
+      if (operation == 'add') {
+        addClick();
+      }
+      else if (operation == 'subtract') {
+        subClick();
+      }
+      else if (operation == 'multiple') {
+        mulClick();
+      }
+      else if (operation == 'divide') {
+        divClick();
+      }
+    };
+
+  //add da numbers!
+    function addClicked (clickEvent) {
+      var add = document.querySelector("#add-button");
+      var sum = x+y;
+      result.textContent = sum;
+  }
+
+  //subtract da numbers!
+    function subClicked (clickEvent) {
+      var sum = x-y;
+      result.textContent = sum;
+  }
+  subtract.addEventListener("click", subClick);
+
+  //Multiply da numbers!
+    function mulClicked (clickEvent) {
+      var sum = x*y;
+      result.textContent = mul;
+  }
+  multiply.addEventListener("click", mulClick);
+
+  //Divide da numbers!
+    function divClicked (clickEvent) {
+      var sum = x/y;
+      result.textContent = divd;
+  }
+  divide.addEventListener("click", divClick);
+
+</script>

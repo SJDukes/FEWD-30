@@ -1,0 +1,48 @@
+<ul>
+  <li><input type="text" id="item-1" value="tomatoes"></li>
+  <li><input type="text" id="item-2" value="avocado"></li>
+  <li><input type="text" id="item-3" value="bananas"></li>
+  <li><input type="text" id="item-4" value="celery"></li>
+  <li><input type="text" id="item-5" value="apples"></li>
+</ul>
+
+<ol>
+  <li id="item-a"></li>
+  <li id="item-b"></li>
+  <li id="item-c"></li>
+  <li id="item-d"></li>
+  <li id="item-e"></li>
+</ol>
+
+<script>
+// Copy the values from the first list into the second list but sort them!
+
+var item1 = document.querySelector("#item-1").value;
+var item2 = document.querySelector("#item-2").value;
+var item3 = document.querySelector("#item-3").value;
+var item4 = document.querySelector("#item-4").value;
+var item5 = document.querySelector("#item-5").value;
+
+var fruits = [];
+
+fruits.push(item1);
+fruits.push(item2);
+fruits.push(item3);
+fruits.push(item4);
+fruits.push(item5);
+fruits.sort();
+
+
+document.querySelector("#item-a").textContent = fruits[0];
+document.querySelector("#item-b").textContent = fruits[1];
+document.querySelector("#item-c").textContent = fruits[2];
+document.querySelector("#item-d").textContent = fruits[3];
+document.querySelector("#item-e").textContent = fruits[4];
+
+</script>
+
+
+//Get the value from the first list into the second list but sort them!
+//push each value into an array
+//sort the array
+//set the text content for the ordered lst items (5x document.querySelector(itema)).textContent

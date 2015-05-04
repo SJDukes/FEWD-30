@@ -1,0 +1,55 @@
+1. Add and element to the page
+  a) Does the element have content?
+  b) Are there any attributes that need to be set?
+  c) Where does it go?
+
+2. Adding behavior to an element
+  a) What element?
+  b) What function?
+
+3. Changing something about an existing element
+  a) What element?
+  b) what are you chaning?
+
+To learn later...
+
+4. Go get data from a server
+  - ajax (?)
+
+5. Given a set of things, do something to each of them
+  -loops (?)
+
+  <script type="text/javascript">
+    // 1. Adding an element to the page
+        //1. create the element
+        var child = document.createElement("li");
+        //2. Append the element to the page
+        var parent = document.querySelector("ul");
+        parent.appendChild(child);
+        //3. Setting the content
+        child.textContent = "Do my homework, like Avand told me to";
+        //4. Setting the attributes
+        child.setAttribue = ("class", "todo-item")
+
+    // 2. Adding behavior to an element
+        //1. Which element do you want to attach behavior to
+        var button = document.querySelector("button#click-me");
+        //2. What happens when the event occurs?
+        function sayCursorLocation(clickEvent) {
+          var x = clickEvent.clientX;
+          var y = clickEvent.clientY;
+          alert("Your mouse is at: " + x + ", " + y);
+        }
+        //3. Attaching the even handler to the element
+        button.addEventListener("click", sayCursorLocation);
+
+    // 3. Changing something about an existing element
+        //1. Get the element you want to change
+        var element = document.querySelector('img#logo')
+        var paragraph = document.querySelector("p");
+        // 2. Change and attribute
+        element.setAttribute("src", "http://example.come/images/small-logo.png");
+        element.textContent = "This is my new paragraph text";
+
+
+  </script>

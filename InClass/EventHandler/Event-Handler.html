@@ -1,11 +1,24 @@
+<!--create the element called button-->
 <button type="button" name="button">Click me</button>
 
 <script type="text/javascript">
+
+  // Does this element exist? Can I find it? use querySelctor to find it
   var button = document.querySelector("button");
 
+  // Define a function, an "EventHandler" to do/look for something
   function buttonClicked (clickEvent) {
     alert("hello world");
   }
 
+  //Attach an "Event Listener"
   button.addEventListener("click", buttonClicked);
+
+
+
+
+
+
+
+
 </script>
