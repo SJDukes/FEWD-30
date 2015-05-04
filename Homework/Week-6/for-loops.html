@@ -26,7 +26,7 @@ var favoriteMovies = [
 
 var movieList = document.querySelector("#movieList");
 
-function loadMovives (){
+function loadMovies (){
   for(var i = 0; i < favoriteMovies.length ; i++) {
     //Create li element
     var listItem = document.createElement("li");
@@ -58,5 +58,5 @@ function loadMovives (){
 //   <a href="http://www.imdb.com/title/tt0106611/">Cool Runnings</a>
 //   <span>(1993, 5.0 stars, 8 ratings)</span>
 // </li>
-
+loadMovies();
 </script>
