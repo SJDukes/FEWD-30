@@ -50,7 +50,7 @@ function loadMovies (){
     var ratingAvg = Math.round(ratingSum/numRating * 10) /10;
 
     //Set textContent for span
-    movieInfo.textContent = " ( " + favoriteMovies[i].year + ", " + ratingAvg + " Stars, " + numRating + " ratings)";
+    movieInfo.textContent = "( " + favoriteMovies[i].year + ", " + ratingAvg + " Stars, " + numRating + " ratings)";
 
     //append everything to the page
     movieList.appendChild(listItem);
