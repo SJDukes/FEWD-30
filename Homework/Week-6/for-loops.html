@@ -29,30 +29,32 @@ var movieList = document.querySelector("#movieList");
 function loadMovies (){
   //loop through the array of movies
   for(var i = 0; i < favoriteMovies.length ; i++) {
+    var movie = favoriteMovies[i];
+
     //Create li element
     var listItem = document.createElement("li");
     listItem.setAttribute("Class","listItems")
 
     // Create anchor and add attributes
     var movieLink = document.createElement("a");
-    movieLink.setAttribute("href",favoriteMovies[i].url);
-    movieLink.textContent = favoriteMovies[i].name;
+    movieLink.setAttribute("href", movie.url);
+    movieLink.textContent =  movie.name;
 
     //Create span with movie info and get ratings array length
     var movieInfo = document.createElement("span");
-    var numRating = favoriteMovies[i].ratings.length;
+    var numRating =  movie.ratings.length;
 
     //loop to add up the sum rating for each Movie
     var ratingSum = 0;
        for(var j = 0; j < numRating; j++) {
-         ratingSum = parseInt(ratingSum + favoriteMovies[i].ratings[j]);
+         ratingSum = parseInt(ratingSum +  movie.ratings[j]);
        }
 
     //Average the rating and reduce trailing decimals
     var ratingAvg = Math.round(ratingSum/numRating * 10) /10;
 
     //Set textContent for span
-    movieInfo.textContent = " (" + favoriteMovies[i].year + ", " + ratingAvg + " Stars, " + numRating + " ratings)";
+    movieInfo.textContent = " (" +  movie.year + ", " + ratingAvg + " Stars, " + numRating + " ratings)";
 
     //Append everything to the page
     movieList.appendChild(listItem);
