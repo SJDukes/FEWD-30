@@ -1,0 +1,50 @@
+<script>
+var a = [509, 707, 490, 866, 826, 924, 949, 530, 915, 890, 677, 751, 227, 309, 532, 259, 982, 407, 229, 764, 925, 878, 925, 731, 898, 410, 117, 83, 306, 909, 224, 613]
+
+//biggestNum way #1
+var max = 0;
+for(var i =0; i < a.length; i++){
+  if (a[i] > max) {
+    max = a[i];
+  }
+}
+console.log("The biggest number in the array is " + max);
+
+//biggestNum way #2
+function biggestNum() {
+  a.sort();
+  var b = a.pop();
+  return b;
+};
+
+//sum of the array
+function sumArray () {
+  sum = 0;
+  for(var i =0; i <a.length; i++) {
+  sum += a[i];
+}
+return sum;
+}
+
+//How many numbers > 500
+var count = 0;
+for (var i = 0; i < a.length; i++) {
+  if(a[i] > 500) {
+    count++;
+    }
+}
+console.log(count + " are over 500");
+
+//How many between 300 and 700
+var perfNum =0;
+for (var i = 0; i < a.length; i++) {
+  if(a[i] > 300 && a[i] < 700)
+  count++;
+}
+console.log(count + " are over 300 and under 700");
+// What's the largest number in the array?
+// What's the sum of all the numbers in the array?
+// How many numbers greater than 500?
+// Which numbers are between 300 and 700?
+// How many even numbers?
+</script>

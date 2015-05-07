@@ -1,0 +1,77 @@
+<ul id="movieList">
+  <!-- Movies will go here, see below. -->
+</ul>
+
+<script>
+var favoriteMovies = [
+  {
+    name: 'Cool Runnings',
+    year: 1993,
+    url: 'http://www.imdb.com/title/tt0106611/',
+    ratings: [5, 5, 5, 5, 5, 5, 5, 5]
+  },
+  {
+    name: 'Terminator 2',
+    year: 1991,
+    url: 'http://www.imdb.com/title/tt0103064/',
+    ratings: [5, 4, 3, 5, 4, 5, 4, 5, 5, 5, 3]
+  },
+  {
+    name: 'Interstellar',
+    year: 2014,
+    url: 'http://www.imdb.com/title/tt0816692/',
+    ratings: [5, 3, 5, 5, 1, 2, 4, 5, 5, 2]
+   }
+]
+var movieList = document.querySelector("#movieList");
+
+function getAverage (numbers) {
+  //loop to add up the sum rating for each Movie
+  var ratingSum = 0;
+     for(var j = 0; j < numbers.length; j++) {
+       ratingSum += parseInt(movie.ratings[j]);
+     }
+  //Average the rating and reduce trailing decimals
+  var ratingAvg = Math.round(ratingSum/numbers.length * 10) /10;
+  return ratingAvg;
+}
+
+function createMovies (movie){
+    // Create anchor and add attributes
+    var movieLink = document.createElement("a");
+    movieLink.setAttribute("href", movie.url);
+    movieLink.textContent =  movie.name;
+
+    var avgRating = getAverage(movie.ratings);
+
+    //Create span with movie info and get ratings array length
+    var movieInfo = document.createElement("span");
+    var numRating =  movie.ratings.length;
+    //Set textContent for span
+    movieInfo.textContent = " (" +  movie.year + ", " + avgRating + " Stars, " + numRating + " ratings)";
+
+    //Create li element
+    var listItem = document.createElement("li");
+    listItem.setAttribute("Class","listItems")
+
+    //Append everything to the page
+    listItem.appendChild(movieLink);
+    listItem.appendChild(movieInfo);
+
+    return listItem;
+  }
+
+  //loop through the array of movies
+  for(var i = 0; i < favoriteMovies.length ; i++) {
+    var movie = favoriteMovies[i];
+    var addToPage = createMovies(movie);
+    movieList.appendChild(addToPage);
+}
+
+// Create a <li> for each movie that looks like this and add it to the list:
+// <li>
+//   <a href="http://www.imdb.com/title/tt0106611/">Cool Runnings</a>
+//   <span>(1993, 5.0 stars, 8 ratings)</span>
+// </li>
+
+</script>
