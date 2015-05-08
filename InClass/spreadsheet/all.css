@@ -1,0 +1,21 @@
+body {
+  background-color: lightgray;
+  font-family: helvetica;
+}
+
+.addButtons {
+  border-radius: 5px;
+  background-color: skyblue;
+  color: white;
+  padding: 5px 15px;
+
+}
+
+.ssBody {
+  background-color: white;
+}
+
+.tRow, .tCell {
+  border-color: black;
+  border-style: solid;
+}

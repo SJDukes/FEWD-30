@@ -1,0 +1,141 @@
+<style>
+body {
+  font-family: sans-serif;
+  margin: 2em 4em;
+}
+table {
+  margin-bottom: 1em;
+}
+td {
+  border: 1px solid #ccc;
+  padding: 1em;
+}
+button {
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-bottom-width: 2px;
+  border-radius: 5px; font-size: inherit;
+  color: white;
+  background-color: #049cd8;
+  padding: .5em 1em;
+  cursor: pointer;
+}
+</style>
+
+<h1>Spreadsheet</h1>
+
+<table>
+  <tbody class="ssBody">
+    <tr>
+      <td>1</td>
+      <td contenteditable>Avand</td>
+      <td contenteditable>Instructor</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td contenteditable>Sandi</td>
+      <td contenteditable>TA</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td contenteditable>Yana</td>
+      <td contenteditable>Student</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td contenteditable>Maks</td>
+      <td contenteditable>Student</td>
+    </tr>
+  </tbody>
+</table>
+
+<button id="add-row">Add a Row</button>
+<button id="add-column">Add a Column</button>
+
+<script>
+// Your code goes here :-)
+
+//Find the buttons so they work
+var buttonAddRow = document.querySelector("#add-row");
+var buttonAddColumn = document.querySelector("#add-column");
+
+function createNumCell (){
+    var ssbody = document.querySelector(".ssBody");
+    //Get the numnber of rows
+    var rows = document.querySelectorAll ("tr");
+    //Create the new row count value
+    rowsLength = rows.length +1;
+    //create the new row
+    var row = document.createElement("tr");
+  //  row.setAttribute("id", "mainRow")
+    //Create a new td to the row and set attributes
+    var cell = document.createElement("td");
+    cell.setAttribute("class", "tCell")
+    cell.textContent =(rowsLength);
+    //Add the new row and td to the page
+    ssbody.appendChild(row);
+    row.appendChild(cell);
+}
+
+function addRow () {
+
+  createNumCell();
+
+  //Figure out how many columns we have
+  var cells = document.querySelectorAll ("tr:first-child td");
+  //Create the new column count value
+  cellsLength = cells.length-1;
+  console.log(cellsLength);
+  //loop to add more cells
+  for (var i = 0; i < cellsLength; i++) {
+    var mainRow = document.querySelector("tr:last-child");
+
+   //Create a new td to the row and set attributes
+   var moreCells = document.createElement("td");
+   moreCells.setAttribute("class", "tCell")
+   moreCells.textContent =(" ");
+
+   //Add the new row and td to the page
+   mainRow.appendChild(moreCells);
+
+  }
+}
+
+function addColumn () {
+  //Figure out how many rows we have
+  var rows = document.querySelectorAll ("tr");
+  //Create the new row count value
+  rowsLength = rows.length +1;
+  console.log(rowsLength);
+
+  //loop to add more cells
+  for (var i = 0; i < rowsLength; i++) {
+    var mainRow = document.querySelector("td:last-child");
+
+   //Create a new td to the row and set attributes
+   var moreTD = document.createElement("td");
+   moreCells.setAttribute("class", "tCell");
+   moreCells.textContent =(" ");
+
+   //Add the new row and td to the page
+   mainRow.appendChild(moreCells);
+}
+}
+
+
+
+
+
+
+
+buttonAddRow.addEventListener("click", addRow);
+buttonAddColumn.addEventListener("click", addColumn);
+
+
+
+
+
+
+
+
+
+</script>

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <title>Spreadsheet</title>
+    <link rel="stylesheet" href="all.css" media="screen">
+  </head>
+  <body>
+    <header>
+      <h1>Class Members</h1>
+    </header>
+    <main>
+      <div class="spreadsheet">
+        <table>
+          <tbody class="ssBody">
+
+          </tbody>
+        </table>
+
+      </div>
+      <form class="" action="index.html" method="post">
+        <input Class="addButtons" type="button" name="addRow" value="ADD ROW">
+        <input Class="addButtons" type="button" name="addCol" value="ADD COLUMN">
+      </form>
+    </main>
+    <footer>
+      <p>Last Edited 5/6/2015</p>
+    </footer>
+
+
+    <script type="text/javascript">
+
+    function createCell (){
+    var ssbody = document.querySelector(".ssBody");
+    var row = document.createElement("tr");
+
+    row.setAttribute("class", "tRow")
+    var cell = document.createElement("td");
+    cell.setAttribute("class", "tCell")
+    cell.setAttribute("contentEditable", "true")
+    cell.textContent =("Cell1");
+
+    ssbody.appendChild(row);
+    row.appendChild(cell);
+  }
+
+
+
+
+    </script>
+  </body>
+</html>
