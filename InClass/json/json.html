@@ -1,0 +1,26 @@
+<script type="text/javascript">
+
+/*
+All objects have attributes (properties) and methods
+Properties are things like "name" , "length" or other desctiptive attributes
+Methods are just functions that are attached to objects
+*/
+
+var car = {}; // Generic object literal
+
+car.color = "red";
+
+car.status = "off";
+
+car.start = function (){
+  this.status = "on";
+}
+
+car.stop = function (){
+  this.status = "off";
+}
+
+console.log(car.status);
+
+
+</script>

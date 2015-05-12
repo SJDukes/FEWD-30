@@ -59,27 +59,26 @@ var buttonAddRow = document.querySelector("#add-row");
 var buttonAddColumn = document.querySelector("#add-column");
 
 function createNumCell (){
-    var ssbody = document.querySelector(".ssBody");
-    //Get the numnber of rows
+    //Find the Spreadsheet
+    var ssBody = document.querySelector(".ssBody");
+    //Get the numnber of current rows
     var rows = document.querySelectorAll ("tr");
     //Create the new row count value
     rowsLength = rows.length +1;
     //create the new row
     var row = document.createElement("tr");
-  //  row.setAttribute("id", "mainRow")
-    //Create a new td to the row and set attributes
+    //Create a new td in the row and set attributes
     var cell = document.createElement("td");
     cell.setAttribute("class", "tCell")
     cell.textContent =(rowsLength);
     //Add the new row and td to the page
-    ssbody.appendChild(row);
+    ssBody.appendChild(row);
     row.appendChild(cell);
 }
 
 function addRow () {
-
+  //Call the createNumCell function to create the first cell in the new row, and add numnber
   createNumCell();
-
   //Figure out how many columns we have
   var cells = document.querySelectorAll ("tr:first-child td");
   //Create the new column count value
@@ -89,36 +88,31 @@ function addRow () {
   for (var i = 0; i < cellsLength; i++) {
     var mainRow = document.querySelector("tr:last-child");
 
-   //Create a new td to the row and set attributes
-   var moreCells = document.createElement("td");
-   moreCells.setAttribute("class", "tCell")
-   moreCells.textContent =(" ");
+    //Create a new td to the row and set attributes
+    var moreCells = document.createElement("td");
+    moreCells.setAttribute("class", "tCell")
+    moreCells.setAttribute("contenteditable", true);
 
-   //Add the new row and td to the page
-   mainRow.appendChild(moreCells);
+    //Add the new row and td to the page
+    mainRow.appendChild(moreCells);
 
   }
 }
 
-function addColumn () {
+function addColumn() {
   //Figure out how many rows we have
   var rows = document.querySelectorAll ("tr");
-  //Create the new row count value
-  rowsLength = rows.length +1;
-  console.log(rowsLength);
 
   //loop to add more cells
-  for (var i = 0; i < rowsLength; i++) {
-    var mainRow = document.querySelector("td:last-child");
+    for (var i = 0; i < rows.length; i++) {
+      //Create a new td to the row and set attributes
+      var moreColumns = document.createElement("td");
+      moreColumns.setAttribute("class", "tCell");
+      moreColumns.setAttribute("contenteditable", true);
 
-   //Create a new td to the row and set attributes
-   var moreTD = document.createElement("td");
-   moreCells.setAttribute("class", "tCell");
-   moreCells.textContent =(" ");
-
-   //Add the new row and td to the page
-   mainRow.appendChild(moreCells);
-}
+      //Add the new row and td to the page
+      rows[i].appendChild(moreColumns);
+  }
 }
 
 buttonAddRow.addEventListener("click", addRow);
