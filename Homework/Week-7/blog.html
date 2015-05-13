@@ -122,13 +122,13 @@
                 //adjust the like value on the page
                 likeCount.textContent= likes;
               } // If auth credentials are not provided don't add the like
-                else if (auth == null)  {
-                  newCommentBody.focus();
-                }
-                else {
-                  alert("Please provide you name to like this page");
-                  newCommentBody.focus();
-                }
+              else if (auth == null)  {
+                newCommentBody.focus();
+              } // If blank credentials are provided alert and go back to the page
+              else {
+                alert("Please provide you name to like this page");
+                newCommentBody.focus();
+              }
               }
 
         function submitComment(){
@@ -144,10 +144,13 @@
                   //reset the comment box
                   newComment.reset();
                   newCommentBody.focus();
-                } // If auth credentials are not provided or cancel is hit don't add the comment
-                  else {
-                     newCommentBody.focus();
-                  }
+                } // If cancel is hit don't add the comment and remove the comment text
+                else if (auth == null)  {
+                  newComment.reset();
+                } // If auth credentials are not provided go back to comment box
+                else {
+                   newCommentBody.focus();
+                }
             }
             else {
                 alert("Please add a comment value");
