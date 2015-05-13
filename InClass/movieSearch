@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>imdb</title>
+  </head>
+  <body>
+    <h1>Movie Search</h1>
+    <form class="mSearch" action="index.html" method="post">
+      <input type="text" id="movieTitle" value="" placeholder="Movie Title">
+      <input type="button" id="search" value="Search">
+    </form>
+
+    <ul id="movieList">
+
+    </ul>
+
+    <script>
+    function get(url, success) {
+    var xhr = new XMLHttpRequest();
+    xhr.addEventListener("readystatechange", function() {
+      if (xhr.readyState == 4 && xhr.status == 200) {
+        success(JSON.parse(xhr.response));
+      }
+    });
+    xhr.open("GET", url);
+    xhr.send();
+    }
+
+    var list = document.querySelector("#movieList");
+
+    function success (results) {
+      var movies = results["Search"];
+      for (var i = 0; i < movies.length; i++) {
+        var movie = movies[i];
+        var li = document.createElement("li");
+        li.textContent = movie["Title"];
+        list.appendChild(li);
+      }
+    }
+
+    var formSubmit = document.querySelector("#mSearch");
+
+    function searchClicked(clickEvent) {
+      event.preventDefault();
+      var mTitle = form.querySelector("#movieTitle");
+      get("http://omdbapi.com/?s="+mTitle.value, success);
+    }
+    formSubmit.addEventListener("submit", searchClicked);
+    //button.addEventListener("click", searchClicked);
+    </script>
+
+  </body>
+</html>
