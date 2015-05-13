@@ -98,15 +98,66 @@
       </div>
 
       <form id="new-comment">
-        <textarea id="new-comment-body" placeholder="Leave a comment..."></textarea>
+        <textarea id="new-Comment-Body" placeholder="Leave a comment..."></textarea>
         <button type="submit">Comment</button>
       </form>
     </main>
 
     <script>
+        var findLike = document.querySelector(".like");
+        var likeCount = document.querySelector(".like-count");
+        var likes = 0;
 
-      // Your code goes here.
+        var newComment = document.querySelector("#new-comment");
+        var newCommentBody = newComment.querySelector("#new-Comment-Body"); // find the input WITHIN the form
+        var placeComment = document.querySelector("#comments")
 
+        function submitLike(){
+          event.preventDefault()
+          //If auth credentials have been provided add the like
+            var auth = prompt("What is your name?");
+              if (auth !== null && auth !=="") {
+                //increment the likes
+                likes = likes +1;
+                //adjust the like value on the page
+                likeCount.textContent= likes;
+              } // If auth credentials are not provided don't add the like
+                else if (auth == null)  {
+                  newCommentBody.focus();
+                }
+                else {
+                  alert("Please provide you name to like this page");
+                  newCommentBody.focus();
+                }
+              }
+
+        function submitComment(){
+          event.preventDefault()
+          //If auth credentials have been provided add the comment
+            if (newCommentBody.value !==""){
+              var auth = prompt("What is your name?");
+                if (auth !== null && auth !=="") {
+                  var addComment = document.createElement("div")
+                  addComment.setAttribute("class", "comment")
+                  addComment.textContent = newCommentBody.value + " - " + auth ;
+                  placeComment.appendChild(addComment);
+                  //reset the comment box
+                  newComment.reset();
+                  newCommentBody.focus();
+                } // If auth credentials are not provided or cancel is hit don't add the comment
+                  else {
+                     newCommentBody.focus();
+                  }
+            }
+            else {
+                alert("Please add a comment value");
+                newCommentBody.focus();
+              }
+        }
+
+        //Event listeners
+        findLike.addEventListener("click", submitLike);
+        newComment.addEventListener("submit", submitComment);
     </script>
   </body>
 </html>

@@ -7,7 +7,7 @@
     <h1>Movie Search</h1>
     <form class="mSearch" action="index.html" method="post">
       <input type="text" id="movieTitle" value="" placeholder="Movie Title">
-      <input type="button" id="search" value="Search">
+      <input type="submit" id="search" value="Search">
     </form>
 
     <ul id="movieList">
