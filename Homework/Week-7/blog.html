@@ -109,47 +109,55 @@
         var likes = 0;
 
         var newComment = document.querySelector("#new-comment");
-        var newCommentBody = newComment.querySelector("#new-Comment-body"); // find the input WITHIN the form
+        var newCommentBody = newComment.querySelector("#new-Comment-body");
         var placeComment = document.querySelector("#comments")
 
-        function submitLike(){
+        function authenticate (user) {
+          var authStatus = 0;
+          if(user !== null && user !=="" && user !== undefined) {
+            authStatus = 1;
+          }
+          return authStatus;
+        }
+
+        function submitLike(event){
           event.preventDefault()
           //If auth credentials have been provided add the like
-            var auth = prompt("What is your name?");
-              if (auth !== null && auth !=="") {
+            var user = prompt("Please Authenticate with your name");
+            var authStatus = authenticate(user)
+              if (authStatus == 1) {
                 //increment the likes
                 likes = likes +1;
                 //adjust the like value on the page
                 likeCount.textContent= likes;
               } // If auth credentials are not provided don't add the like
-              else if (auth == null)  {
+              else if (authStatus == 0)  {
                 newCommentBody.focus();
               } // If blank credentials are provided alert and go back to the page
               else {
                 alert("Please provide you name to like this page");
                 newCommentBody.focus();
               }
-              }
+        }
 
-        function submitComment(){
+        function submitComment(event){
           event.preventDefault()
           //If auth credentials have been provided add the comment
             if (newCommentBody.value !==""){
-              var auth = prompt("What is your name?");
-                if (auth !== null && auth !=="") {
+              var user = prompt("Please Authenticate with your name");
+              var authStatus = authenticate(user)
+                if (authStatus == 1) {
                   var addComment = document.createElement("div")
                   addComment.setAttribute("class", "comment")
-                  addComment.textContent = newCommentBody.value + " - " + auth ;
+                  addComment.textContent = newCommentBody.value + " - " + user ;
                   placeComment.appendChild(addComment);
                   //reset the comment box
                   newComment.reset();
                   newCommentBody.focus();
                 } // If cancel is hit don't add the comment and remove the comment text
-                else if (auth == null)  {
-                  newComment.reset();
-                } // If auth credentials are not provided go back to comment box
-                else {
-                   newCommentBody.focus();
+                else if (authStatus == 0)  {
+                  newCommentBody.focus();
+                  //newComment.reset();
                 }
             }
             else {

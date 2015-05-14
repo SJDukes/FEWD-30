@@ -38,11 +38,11 @@
       }
     }
 
-    var formSubmit = document.querySelector("#mSearch");
+    var formSubmit = document.querySelector(".mSearch");
 
     function searchClicked(clickEvent) {
       event.preventDefault();
-      var mTitle = form.querySelector("#movieTitle");
+      var mTitle = document.querySelector("#movieTitle");
       get("http://omdbapi.com/?s="+mTitle.value, success);
     }
     formSubmit.addEventListener("submit", searchClicked);
