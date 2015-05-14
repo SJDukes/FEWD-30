@@ -127,15 +127,15 @@
             var authStatus = authenticate(user)
               if (authStatus == 1) {
                 //increment the likes
-                likes = likes +1;
-                //adjust the like value on the page
-                likeCount.textContent= likes;
+                var counter = parseInt(likeCount.textContent);
+                counter = counter +1;
+                likeCount.textContent= counter;
               } // If auth credentials are not provided don't add the like
               else if (authStatus == 0)  {
                 newCommentBody.focus();
               } // If blank credentials are provided alert and go back to the page
               else {
-                alert("Please provide you name to like this page");
+                alert("Please properly authenticate to like this page");
                 newCommentBody.focus();
               }
         }
