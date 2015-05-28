@@ -1,0 +1,14 @@
+setup a form with 3 inputs so that we can find parks using the following criteria
+- zip code
+- park type
+- dog type
+
+Use google search api (or something like it) to find the locations
+* I would like it to search after each input (like a filter)
+
+
+use localStorage.setItem to store the following or remove the following values as you modify
+the input fields:
+- zip code
+- park type
+- dog type

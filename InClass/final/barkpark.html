@@ -1,39 +1,78 @@
-<DOCTYPE! html>
+<!DOCTYPE html>
 <html>
   <head>
     <title>BARK Park</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+    <!-- <link rel="stylesheet" href="stylesheets/all.css" media="screen"> -->
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
 
-    <link rel="stylesheet" href="stylesheets/all.css" media="screen">
-    <!--<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
 
+    <style media="screen">
+    #logo{
+      border-radius: 15px;
+    }
+
+      #map {
+        height: 700px;
+        max-width: 700px;
+        max-height: 700px;
+        margin: 0 auto;
+        padding: 30px;
+        background-color: white;
+        margin-top: 40px;
+        margin-bottom: 40px;
+        border: 1px solid #C7C7C7;
+        border-radius: 9px;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+      }
+
+      .questionaire {
+        display: block;
+
+      }
+
+
+    </style>
   </head>
+
   <body>
-  </body>
-    <header>
-      <a href="barkPark.html"><img id="logo" src="images/logo.png" width="140 " height="200" alt="logo" /> </a>
-      <nav>
-        <ol>
-          <li>
-            <form class="questionaire" action="index.html" method="post">
+      <header>
+        <a href="barkPark.html"><img id="logo" src="images/logo.png" width="140 " height="200" alt="logo" /> </a>
+        <nav class="questionaire">
+          <form class="nav" action="index.html" method="post">
+            <div class="questionaire">
               <label for="zipCode">Zip Code</label>
               <input type="textarea" id="zipCode" placeholder="Ex: 94107" contentEditable="true">
-            </form>
-          </li>
-          <li>
-          <form class="questionaire" action="index.html" method="post">
-            <label for="parkType">On or Off Leash Parks</label>
-            <input type="textarea" id="parkType" placeholder="Ex: Off Leash">
+            </div>
+            <div class="questionaire">
+              <label for="parkType">On or Off Leash Parks</label>
+              <input type="textarea" id="parkType" placeholder="Ex: Off Leash">
+            </div>
+            <div class="questionaire">
+              <label for="dogType">Small or Large Dogs</label>
+              <input type="textarea" id="dogType" placeholder="Ex: Small Dog">
+            </div>
           </form>
-          </li>
-          <li>
-            <label for="dogType">Small or Large Dogs</label>
-            <input type="textarea" id="dogType" placeholder="Ex: Small Dog">
-          </li>
-        </<o>
-      </nav>
-    </header>
-  <main>
+        </nav>
+      </header>
+      <div id="map" >
 
-  </main>
-  <footer>The best way to find dog parks since 2015</footer>
+      </div>
+    <footer>The best way to find dog parks since 2015</footer>
+
+    <script type="text/javascript">
+
+      var map = L.map('map', {
+        center: [37.749,-122.443],
+        zoom: 13
+      });
+
+      var url = 'https://{s}.tiles.mapbox.com/v4/sdukes.m8434ap4/{z}/{x}/{y}.png?access_token=pk.eyJ1Ijoic2R1a2VzIiwiYSI6ImZuTW80czQifQ.3pf72TkZauDP9mbYqlcIXQ';
+      L.tileLayer(url, {
+      }).addTo(map);
+
+    </script>
+  </body>
 </html>
