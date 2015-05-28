@@ -117,7 +117,7 @@
 
      var accessToken = 'pk.eyJ1Ijoicmdhc3RvbiIsImEiOiJJYTdoRWNJIn0.MN6DrT07IEKXadCU8xpUMg'; // This is Rob's! Get your own!
 
-     $.get('https://gist.githubusercontent.com/robgaston/dc5e5d709a0f1874a3b3/raw/ae107de9dc971abacf0cfa7a128c37fd3c38565a/sf_bike_routes.geojson', function(data) {
+     $.get('https://a.tiles.mapbox.com/v4/sdukes.m8434ap4/features.json?access_token=pk.eyJ1Ijoic2R1a2VzIiwiYSI6ImZuTW80czQifQ.3pf72TkZauDP9mbYqlcIXQ', function(data) {
          // Now that we've got our data we can just let leaflet read it and add it to the map
          L.geoJson(JSON.parse(data),{
              // This is the sort of strange way that we add popups to
