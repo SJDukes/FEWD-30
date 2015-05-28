@@ -117,8 +117,31 @@
 
      var accessToken = 'pk.eyJ1Ijoicmdhc3RvbiIsImEiOiJJYTdoRWNJIn0.MN6DrT07IEKXadCU8xpUMg'; // This is Rob's! Get your own!
 
+     $.get('https://gist.githubusercontent.com/robgaston/dc5e5d709a0f1874a3b3/raw/ae107de9dc971abacf0cfa7a128c37fd3c38565a/sf_bike_routes.geojson', function(data) {
+         // Now that we've got our data we can just let leaflet read it and add it to the map
+         L.geoJson(JSON.parse(data),{
+             // This is the sort of strange way that we add popups to
+             // features added to the map from GeoJSON.  There are other
+             // ways to do this, but leaflet makes the simplest case
+             // pretty easy.
+             onEachFeature: function(feature, layer) {
+                 layer.bindPopup(feature.properties.name);
+             },
+             // Here's where we can style our features.
+             style: function(feature) {
+                 var color = "orange";
+                 if (feature.properties.name === "Sutter Street") {
+                     color = "purple";
+                 }
+                 return {
+                     color: color
+                 };
+             }
+         // note the call here to addTo() once again
+         }).addTo(map);
+     });
 
-  
+
 
      map.locate({ setView: true });
     </script>
