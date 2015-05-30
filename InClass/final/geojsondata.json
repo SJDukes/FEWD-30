@@ -1,0 +1,4469 @@
+{
+   "type":"FeatureCollection",
+   "features":[
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"10TH AVE/CLEMENT MINI PARK",
+            "ParkType":"Mini Park",
+            "ParkServiceArea":"PSA 1",
+            "PSAManager":"Elder, Steve",
+            "email":"steven.elder@sfgov.org",
+            "Number":"(415) 601-6501",
+            "Zipcode":"94118",
+            "Acreage":"0.66",
+            "SupDist":"1",
+            "ParkID":"156",
+            "Location 1":"351 9th Ave\nSan Francisco, CA\n(37.78184397, -122.46809908)",
+            "Lat":"",
+            "title":"10TH AVE/CLEMENT MINI PARK",
+            "description":"351 9th Ave\nSan Francisco, CA\n(37.78184397, -122.46809908)",
+            "marker-color":"63b6e5",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7juv1h0"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.467465,
+               37.780536
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knej80036ivm376vz809k"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"15TH AVENUE STEPS",
+            "ParkType":"Mini Park",
+            "ParkServiceArea":"PSA 4",
+            "PSAManager":"Sheehy, Chuck",
+            "email":"charles.sheehy@sfgov.org",
+            "Number":"(415) 218-2226",
+            "Zipcode":"94122",
+            "Acreage":"0.26",
+            "SupDist":"7",
+            "ParkID":"185",
+            "Location 1":"15th Ave b w Kirkham\nSan Francisco, CA\n(37.75956493, -122.47226783)",
+            "Lat":"",
+            "title":"15TH AVENUE STEPS",
+            "description":"15th Ave b w Kirkham\nSan Francisco, CA\n(37.75956493, -122.47226783)",
+            "marker-color":"63b6e5",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7juv1h1"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.472356,
+               37.759923
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knejb0037ivm39ffa21gj"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"ALIOTO MINI PARK",
+            "ParkType":"Mini Park",
+            "ParkServiceArea":"PSA 6",
+            "PSAManager":"Field, Adrian",
+            "email":"adrian.field@sfgov.org",
+            "Number":"(415) 717-2872",
+            "Zipcode":"94110",
+            "Acreage":"0.16",
+            "SupDist":"9",
+            "ParkID":"62",
+            "Location 1":"20th\nSan Francisco, CA\n(37.75890196, -122.41821702)",
+            "Lat":"",
+            "title":"ALIOTO MINI PARK",
+            "description":"20th\nSan Francisco, CA\n(37.75890196, -122.41821702)",
+            "marker-color":"63b6e5",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7juv1h3"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.416696,
+               37.736317
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knejd0038ivm3p03jbmhm"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"BEIDEMAN/O'FARRELL MINI PARK",
+            "ParkType":"Mini Park",
+            "ParkServiceArea":"PSA 2",
+            "PSAManager":"O'Connor, Tom",
+            "email":"tom.o'connor@sfgov.org",
+            "Number":"(415) 218-0259",
+            "Zipcode":"94115",
+            "Acreage":"0.06",
+            "SupDist":"5",
+            "ParkID":"106",
+            "Location 1":"O'Farrell\nSan Francisco, CA\n(37.78238894, -122.43861654)",
+            "Lat":"",
+            "title":"BEIDEMAN/O'FARRELL MINI PARK",
+            "description":"O'Farrell\nSan Francisco, CA\n(37.78238894, -122.43861654)",
+            "marker-color":"63b6e5",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7juv1h4"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.43473,
+               37.783333
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knejf0039ivm3fruxpja6"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"BROADWAY TUNNEL WEST MINI PARK",
+            "ParkType":"Mini Park",
+            "ParkServiceArea":"PSA 1",
+            "PSAManager":"Figone, Joe",
+            "email":"joseph.figone@sfgov.org",
+            "Number":"(415) 713-4997",
+            "Zipcode":"94109",
+            "Acreage":"0.12",
+            "SupDist":"3",
+            "ParkID":"203",
+            "Location 1":"1201 Broadway\nSan Francisco, CA\n(37.79643576, -122.41742319)",
+            "Lat":"",
+            "title":"BROADWAY TUNNEL WEST MINI PARK",
+            "description":"1201 Broadway\nSan Francisco, CA\n(37.79643576, -122.41742319)",
+            "marker-color":"63b6e5",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7juv1h6"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.42237,
+               37.793914
+            ],
+            "type":"Point"
+         },
+         "id":"cia7kneji003bivm3kp2oznga"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"BROTHERHOOD/CHESTER MINI PARK",
+            "ParkType":"Mini Park",
+            "ParkServiceArea":"PSA 4",
+            "PSAManager":"Sheehy, Chuck",
+            "email":"charles.sheehy@sfgov.org",
+            "Number":"(415) 218-2226",
+            "Zipcode":"94132",
+            "Acreage":"0.59",
+            "SupDist":"7",
+            "ParkID":"160",
+            "Location 1":"501 Brotherhood Wy\nSan Francisco, CA\n(37.71238249, -122.46990318)",
+            "Lat":"",
+            "title":"BROTHERHOOD/CHESTER MINI PARK",
+            "description":"501 Brotherhood Wy\nSan Francisco, CA\n(37.71238249, -122.46990318)",
+            "marker-color":"63b6e5",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7juv1h7"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.499961,
+               37.757958
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knejk003civm3vahf3l1a"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"BUSH/BRODERICK MINI PARK",
+            "ParkType":"Mini Park",
+            "ParkServiceArea":"PSA 2",
+            "PSAManager":"O'Connor, Tom",
+            "email":"tom.o'connor@sfgov.org",
+            "Number":"(415) 218-0259",
+            "Zipcode":"94115",
+            "Acreage":"0.18",
+            "SupDist":"5",
+            "ParkID":"108",
+            "Location 1":"Baker\nSan Francisco, CA\n(37.78557814, -122.44253511)",
+            "Lat":"",
+            "title":"BUSH/BRODERICK MINI PARK",
+            "description":"Baker\nSan Francisco, CA\n(37.78557814, -122.44253511)",
+            "marker-color":"63b6e5",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7juv1h8"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.405204,
+               37.790387
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knejl003divm3lbfo2tg2"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"CAYUGA/LAMARTINE MINI PARK",
+            "ParkType":"Mini Park",
+            "ParkServiceArea":"PSA 5",
+            "PSAManager":"Lockwood, Darlene",
+            "email":"darlene.lockwood@sfgov.org",
+            "Number":"(415) 717-2872",
+            "Zipcode":"94112",
+            "Acreage":"0.12",
+            "SupDist":"11",
+            "ParkID":"159",
+            "Location 1":"Cayuga\nSan Francisco, CA\n(37.73033758, -122.43294264)",
+            "Lat":"",
+            "title":"CAYUGA/LAMARTINE MINI PARK",
+            "description":"Cayuga\nSan Francisco, CA\n(37.73033758, -122.43294264)",
+            "marker-color":"63b6e5",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7juv1h9"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.476959,
+               37.753344
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knejn003eivm3hhq60ek5"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"COLERIDGE MINI PARK",
+            "ParkType":"Mini Park",
+            "ParkServiceArea":"PSA 6",
+            "PSAManager":"Miller, John",
+            "email":"john.miller@sfgov.org",
+            "Number":"(415) 513-2577",
+            "Zipcode":"94110",
+            "Acreage":"0.21",
+            "SupDist":"9",
+            "ParkID":"34",
+            "Location 1":"Coleridge\nSan Francisco, CA\n(37.74442266, -122.41966647)",
+            "Lat":"",
+            "title":"COLERIDGE MINI PARK",
+            "description":"Coleridge\nSan Francisco, CA\n(37.74442266, -122.41966647)",
+            "marker-color":"63b6e5",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7juv1ha"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.411727,
+               37.77085
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knejo003fivm301r1pbbw"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"COSO/PRECITA MINI PARK",
+            "ParkType":"Mini Park",
+            "ParkServiceArea":"PSA 6",
+            "PSAManager":"Miller, John",
+            "email":"john.miller@sfgov.org",
+            "Number":"(415) 513-2577",
+            "Zipcode":"94110",
+            "Acreage":"0.15",
+            "SupDist":"9",
+            "ParkID":"199",
+            "Location 1":"Coso\nSan Francisco, CA\n(37.74624354, -122.41812033)",
+            "Lat":"",
+            "title":"COSO/PRECITA MINI PARK",
+            "description":"Coso\nSan Francisco, CA\n(37.74624354, -122.41812033)",
+            "marker-color":"63b6e5",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7juv1hb"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.443828,
+               37.751172
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knejq003givm39efogigh"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"COTTAGE ROW MINI PARK",
+            "ParkType":"Mini Park",
+            "ParkServiceArea":"PSA 2",
+            "PSAManager":"O'Connor, Tom",
+            "email":"tom.o'connor@sfgov.org",
+            "Number":"(415) 218-0259",
+            "Zipcode":"94115",
+            "Acreage":"0.16",
+            "SupDist":"5",
+            "ParkID":"127",
+            "Location 1":"Sutter\nSan Francisco, CA\n(37.78657099, -122.4323102)",
+            "Lat":"",
+            "title":"COTTAGE ROW MINI PARK",
+            "description":"Sutter\nSan Francisco, CA\n(37.78657099, -122.4323102)",
+            "marker-color":"63b6e5",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7juv1hc"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.432461,
+               37.787148
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knejs003hivm3kjpaypwp"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"FILLMORE/TURK MINI PARK",
+            "ParkType":"Mini Park",
+            "ParkServiceArea":"PSA 2",
+            "PSAManager":"O'Connor, Tom",
+            "email":"tom.o'connor@sfgov.org",
+            "Number":"(415) 218-0259",
+            "Zipcode":"94115",
+            "Acreage":"0.23",
+            "SupDist":"5",
+            "ParkID":"182",
+            "Location 1":"Fillmore\nSan Francisco, CA\n(37.78018588, -122.43178038)",
+            "Lat":"",
+            "title":"FILLMORE/TURK MINI PARK",
+            "description":"Fillmore\nSan Francisco, CA\n(37.78018588, -122.43178038)",
+            "marker-color":"63b6e5",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7juv1hd"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.429409,
+               37.774378
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knejt003iivm3csnrsvuh"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"GENEVA AVENUE STRIP",
+            "ParkType":"Mini Park",
+            "ParkServiceArea":"PSA 5",
+            "PSAManager":"Lockwood, Darlene",
+            "email":"darlene.lockwood@sfgov.org",
+            "Number":"(415) 717-2872",
+            "Zipcode":"94112",
+            "Acreage":"0.23",
+            "SupDist":"11",
+            "ParkID":"21",
+            "Location 1":"600 Geneva\nSan Francisco, CA\n(37.72046082, -122.44546412)",
+            "Lat":"",
+            "title":"GENEVA AVENUE STRIP",
+            "description":"600 Geneva\nSan Francisco, CA\n(37.72046082, -122.44546412)",
+            "marker-color":"63b6e5",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7juv1he"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.441466,
+               37.717197
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knejv003jivm3p4vxw2k4"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"GOLDEN GATE/STEINER MINI PARK",
+            "ParkType":"Mini Park",
+            "ParkServiceArea":"PSA 2",
+            "PSAManager":"O'Connor, Tom",
+            "email":"tom.o'connor@sfgov.org",
+            "Number":"(415) 218-0259",
+            "Zipcode":"94115",
+            "Acreage":"0.08",
+            "SupDist":"5",
+            "ParkID":"120",
+            "Location 1":"Golden Gate\nSan Francisco, CA\n(37.77958265, -122.43345152)",
+            "Lat":"",
+            "title":"GOLDEN GATE/STEINER MINI PARK",
+            "description":"Golden Gate\nSan Francisco, CA\n(37.77958265, -122.43345152)",
+            "marker-color":"63b6e5",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7juv1hf"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.458248,
+               37.766372
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knejx003kivm3j2jfrpsi"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"GUY PLACE MINI PARK",
+            "ParkType":"Mini Park",
+            "ParkServiceArea":"PSA 2",
+            "PSAManager":"Hill, Eric",
+            "email":"eric.hill@sfgov.org",
+            "Number":"(415) 254-8030",
+            "Zipcode":"94105",
+            "Acreage":"0",
+            "SupDist":"6",
+            "ParkID":"445358",
+            "Location 1":"4 8 Guy Place\nSan Francisco, CA\n(37.7750329000483, -122.41916720030605)",
+            "Lat":"",
+            "title":"GUY PLACE MINI PARK",
+            "description":"4 8 Guy Place\nSan Francisco, CA\n(37.7750329000483, -122.41916720030605)",
+            "marker-color":"63b6e5",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7juv1hg"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.393921,
+               37.786852
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knejy003livm3lemod4zh"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"HEAD/BROTHERHOOD MINI PARK",
+            "ParkType":"Mini Park",
+            "ParkServiceArea":"PSA 4",
+            "PSAManager":"Sheehy, Chuck",
+            "email":"charles.sheehy@sfgov.org",
+            "Number":"(415) 218-2226",
+            "Zipcode":"94132",
+            "Acreage":"0.55",
+            "SupDist":"11",
+            "ParkID":"196",
+            "Location 1":"Head St\nSan Francisco, CA\n(37.71262222, -122.46422924)",
+            "Lat":"",
+            "title":"HEAD/BROTHERHOOD MINI PARK",
+            "description":"Head St\nSan Francisco, CA\n(37.71262222, -122.46422924)",
+            "marker-color":"63b6e5",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7juv1hh"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.464688,
+               37.715213
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knek0003mivm3n12aiwef"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"HYDE/VALLEJO MINI PARK",
+            "ParkType":"Mini Park",
+            "ParkServiceArea":"PSA 1",
+            "PSAManager":"Figone, Joe",
+            "email":"joseph.figone@sfgov.org",
+            "Number":"(415) 713-4997",
+            "Zipcode":"94109",
+            "Acreage":"0.1",
+            "SupDist":"3",
+            "ParkID":"146",
+            "Location 1":"Hyde\nSan Francisco, CA\n(37.79763564, -122.41910564)",
+            "Lat":"",
+            "title":"HYDE/VALLEJO MINI PARK",
+            "description":"Hyde\nSan Francisco, CA\n(37.79763564, -122.41910564)",
+            "marker-color":"63b6e5",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7juv1hi"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.419173,
+               37.797695
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knek2003nivm3r36377z1"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"INA COOLBRITH MINI PARK",
+            "ParkType":"Mini Park",
+            "ParkServiceArea":"PSA 1",
+            "PSAManager":"Cleveland, Maggie",
+            "email":"maggie.cleveland@sfgov.org",
+            "Number":"(415) 254-8014",
+            "Zipcode":"94133",
+            "Acreage":"0.8",
+            "SupDist":"3",
+            "ParkID":"145",
+            "Location 1":"Vallejo\nSan Francisco, CA\n(37.79816473, -122.41338371)",
+            "title":"INA COOLBRITH MINI PARK",
+            "description":"Vallejo\nSan Francisco, CA\n(37.79816473, -122.41338371)",
+            "marker-color":"63b6e5",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7juv1hj"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.413487,
+               37.798373
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knek4003oivm3nhcoibgs"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"24TH/YORK MINI PARK",
+            "ParkType":"Mini Park",
+            "ParkServiceArea":"PSA 6",
+            "PSAManager":"Field, Adrian",
+            "email":"adrian.field@sfgov.org",
+            "Number":"(415) 717-2872",
+            "Zipcode":"94110",
+            "Acreage":"0.12",
+            "SupDist":"9",
+            "ParkID":"51",
+            "Location 1":"24th\nSan Francisco, CA\n(37.75306042, -122.40857543)",
+            "Lat":"",
+            "title":"24TH/YORK MINI PARK",
+            "description":"24th\nSan Francisco, CA\n(37.75306042, -122.40857543)",
+            "marker-color":"63b6e5",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7juv1h2"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.408638,
+               37.753038
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knek6003pivm3ov01kygm"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"LINCOLN PARK",
+            "ParkType":"Regional Park",
+            "ParkServiceArea":"PSA 1",
+            "PSAManager":"Elder, Steve",
+            "email":"steven.elder@sfgov.org",
+            "Number":"(415) 601-6501",
+            "Zipcode":"94121",
+            "Acreage":"112.03",
+            "SupDist":"1",
+            "ParkID":"103",
+            "Location 1":"34th Ave\nSan Francisco, CA\n(37.78423843, -122.49838278)",
+            "Lat":"",
+            "title":"LINCOLN PARK",
+            "description":"34th Ave\nSan Francisco, CA\n(37.78423843, -122.49838278)",
+            "marker-color":"a3e46b",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7jzt26o"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.494576,
+               37.781871
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knekb003sivm3zeqmjd4d"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"BUENA VISTA PARK",
+            "ParkType":"Regional Park",
+            "ParkServiceArea":"PSA 5",
+            "PSAManager":"O'Brien, Teresa",
+            "email":"teresa.o'brien@sfgov.org",
+            "Number":"(415) 819-2699",
+            "Zipcode":"94117",
+            "Acreage":"36.08",
+            "SupDist":"8",
+            "ParkID":"81",
+            "Location 1":"Buena Vista\nSan Francisco, CA\n(37.7685639, -122.44137945)",
+            "Lat":"",
+            "title":"BUENA VISTA PARK",
+            "description":"Buena Vista\nSan Francisco, CA\n(37.7685639, -122.44137945)",
+            "marker-color":"a3e46b",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7jzt26k"
+         },
+         "geometry":{
+            "coordinates":[
+               -121.321059,
+               36.425101
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knekg003vivm3gzjicp6c"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"ADAM ROGERS PARK",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 3",
+            "PSAManager":"Watkins, Robert",
+            "email":"robert.watkins@sfgov.org",
+            "Number":"(415) 819-6138",
+            "Zipcode":"94124",
+            "Acreage":"2.74",
+            "SupDist":"10",
+            "ParkID":"46",
+            "Location 1":"Ingalls\rSan Francisco, CA\r(37.73101645, -122.38385466)",
+            "Lat":"",
+            "title":"ADAM ROGERS PARK",
+            "description":"Ingalls\rSan Francisco, CA\r(37.73101645, -122.38385466)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7k4beys"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.387831,
+               37.725229
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knekj003xivm3cgyvx4uz"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"ALAMO SQUARE",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 2",
+            "PSAManager":"O'Connor, Tom",
+            "email":"tom.o'connor@sfgov.org",
+            "Number":"(415) 218-0259",
+            "Zipcode":"94117",
+            "Acreage":"12.7",
+            "SupDist":"5",
+            "ParkID":"117",
+            "Location 1":"Hayes\rSan Francisco, CA\r(37.77634875, -122.43467396)",
+            "Lat":"",
+            "title":"ALAMO SQUARE",
+            "description":"Hayes\rSan Francisco, CA\r(37.77634875, -122.43467396)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7k4beyt"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.435168,
+               37.77486
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knekl003yivm3fz3dztqv"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"ALICE CHALMERS PLAYGROUND",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 3",
+            "PSAManager":"Taylor, Zack",
+            "email":"zack.taylor@sfgov.org",
+            "Number":"(415) 601-7277",
+            "Zipcode":"94112",
+            "Acreage":"1.68",
+            "SupDist":"11",
+            "ParkID":"25",
+            "Location 1":"670 Brunswick\rSan Francisco, CA\r(37.7098271, -122.44665065)",
+            "Lat":"",
+            "title":"ALICE CHALMERS PLAYGROUND",
+            "description":"670 Brunswick\rSan Francisco, CA\r(37.7098271, -122.44665065)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7k4beyu"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.4511,
+               37.7363
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knekm003zivm3ffx9a0dc"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"ALICE MARBLE TENNIS COURTS",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 1",
+            "PSAManager":"Figone, Joe",
+            "email":"joseph.figone@sfgov.org",
+            "Number":"(415) 713-4997",
+            "Zipcode":"94109",
+            "Acreage":"0.84",
+            "SupDist":"2",
+            "ParkID":"151",
+            "Location 1":"Greenwich\rSan Francisco, CA\r(37.80142776, -122.42034327)",
+            "Lat":"",
+            "title":"ALICE MARBLE TENNIS COURTS",
+            "description":"Greenwich\rSan Francisco, CA\r(37.80142776, -122.42034327)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7k4bezv"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.4511,
+               37.7363
+            ],
+            "type":"Point"
+         },
+         "id":"cia7kneko0040ivm31g5laggz"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"ALLYNE PARK",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 1",
+            "PSAManager":"Figone, Joe",
+            "email":"joseph.figone@sfgov.org",
+            "Number":"(415) 713-4997",
+            "Zipcode":"94123",
+            "Acreage":"0.75",
+            "SupDist":"2",
+            "ParkID":"131",
+            "Location 1":"2609 Gough St\rSan Francisco, CA\r(37.79746066, -122.42759992)",
+            "Lat":"",
+            "title":"ALLYNE PARK",
+            "description":"2609 Gough St\rSan Francisco, CA\r(37.79746066, -122.42759992)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7k4bezw"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.423006,
+               37.77702
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knekq0041ivm3r6k4e902"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"ALTA PLAZA",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 1",
+            "PSAManager":"Figone, Joe",
+            "email":"joseph.figone@sfgov.org",
+            "Number":"(415) 713-4997",
+            "Zipcode":"94115",
+            "Acreage":"11.91",
+            "SupDist":"2",
+            "ParkID":"129",
+            "Location 1":"Jackson\rSan Francisco, CA\r(37.79117333, -122.43766978)",
+            "Lat":"",
+            "title":"ALTA PLAZA",
+            "description":"Jackson\rSan Francisco, CA\r(37.79117333, -122.43766978)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7k4bezx"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.414826,
+               37.794988
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knekr0042ivm30v19lxff"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"ANGELO J. ROSSI PLAYGROUND",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 1",
+            "PSAManager":"Elder, Steve",
+            "email":"steven.elder@sfgov.org",
+            "Number":"(415) 601-6501",
+            "Zipcode":"94118",
+            "Acreage":"6.47",
+            "SupDist":"1",
+            "ParkID":"105",
+            "Location 1":"2 Willard North St\rSan Francisco, CA\r(37.77874186, -122.45745402)",
+            "Lat":"",
+            "title":"ANGELO J. ROSSI PLAYGROUND",
+            "description":"2 Willard North St\rSan Francisco, CA\r(37.77874186, -122.45745402)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7k4bezy"
+         },
+         "geometry":{
+            "coordinates":[
+               -1.603401,
+               52.807542
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knekt0043ivm3izn8jgtb"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"APTOS PLAYGROUND",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 4",
+            "PSAManager":"Sheehy, Chuck",
+            "email":"charles.sheehy@sfgov.org",
+            "Number":"(415) 218-2226",
+            "Zipcode":"94127",
+            "Acreage":"4.81",
+            "SupDist":"7",
+            "ParkID":"65",
+            "Location 1":"Aptos\rSan Francisco, CA\r(37.7285246, -122.46654085)",
+            "Lat":"",
+            "title":"APTOS PLAYGROUND",
+            "description":"Aptos\rSan Francisco, CA\r(37.7285246, -122.46654085)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7k4bezz"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.46587,
+               37.730923
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knekv0044ivm3u8nxl12w"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"ARGONNE PLAYGROUND",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 1",
+            "PSAManager":"Elder, Steve",
+            "email":"steven.elder@sfgov.org",
+            "Number":"(415) 601-6501",
+            "Zipcode":"94121",
+            "Acreage":"0.82",
+            "SupDist":"1",
+            "ParkID":"97",
+            "Location 1":"18th Ave\rSan Francisco, CA\r(37.779415, -122.47769976)",
+            "Lat":"",
+            "title":"ARGONNE PLAYGROUND",
+            "description":"18th Ave\rSan Francisco, CA\r(37.779415, -122.47769976)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7k4bf010"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.477235,
+               37.780379
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knekw0045ivm3gjydzo7e"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"BALBOA NATURAL AREA",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 1",
+            "PSAManager":"Wayne, Lisa",
+            "email":"lisa.wayne@sfgov.org",
+            "Number":"(415) 666-7092",
+            "Zipcode":"94121",
+            "Acreage":"1.84",
+            "SupDist":"1",
+            "ParkID":"174",
+            "Location 1":"Balboa\rSan Francisco, CA\r(37.77591285, -122.51103949)",
+            "Lat":"",
+            "title":"BALBOA NATURAL AREA",
+            "description":"Balboa\rSan Francisco, CA\r(37.77591285, -122.51103949)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7k4bf011"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.477433,
+               37.776375
+            ],
+            "type":"Point"
+         },
+         "id":"cia7kneky0046ivm3y025tea5"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"BALBOA PARK",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 5",
+            "PSAManager":"Lockwood, Darlene",
+            "email":"darlene.lockwood@sfgov.org",
+            "Number":"(415) 717-2872",
+            "Zipcode":"94112",
+            "Acreage":"24.02",
+            "SupDist":"11",
+            "ParkID":"66",
+            "Location 1":"Ocean\rSan Francisco, CA\r(37.72494861, -122.44462659)",
+            "Lat":"",
+            "title":"BALBOA PARK",
+            "description":"Ocean\rSan Francisco, CA\r(37.72494861, -122.44462659)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7k4bf012"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.477433,
+               37.776375
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knel00047ivm3cqb1oamr"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"BAY VIEW PLAYGROUND",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 3",
+            "PSAManager":"Watkins, Robert",
+            "email":"robert.watkins@sfgov.org",
+            "Number":"(415) 819-6138",
+            "Zipcode":"94124",
+            "Acreage":"3.4",
+            "SupDist":"10",
+            "ParkID":"38",
+            "Location 1":"3rd\rSan Francisco, CA\r(37.72593906, -122.39329436)",
+            "Lat":"",
+            "title":"BAY VIEW PLAYGROUND",
+            "description":"3rd\rSan Francisco, CA\r(37.72593906, -122.39329436)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7k4bf013"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.426023,
+               37.803742
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knel10048ivm3f4b88nhw"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"BERKELEY WAY OPEN SPACE",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 5",
+            "PSAManager":"Lockwood, Darlene",
+            "email":"darlene.lockwood@sfgov.org",
+            "Number":"(415) 717-2872",
+            "Zipcode":"94131",
+            "Acreage":"0.83",
+            "SupDist":"8",
+            "ParkID":"2",
+            "Location 1":"298 Berkeley Wy\rSan Francisco, CA\r(37.73956697, -122.43995903)",
+            "Lat":"",
+            "title":"BERKELEY WAY OPEN SPACE",
+            "description":"298 Berkeley Wy\rSan Francisco, CA\r(37.73956697, -122.43995903)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7k4bf014"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.439671,
+               37.74034
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knel30049ivm3yr8l81g0"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"BERNAL HEIGHTS RECREATION CENTER",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 6",
+            "PSAManager":"Miller, John",
+            "email":"john.miller@sfgov.org",
+            "Number":"(415) 513-2577",
+            "Zipcode":"94110",
+            "Acreage":"0.74",
+            "SupDist":"9",
+            "ParkID":"33",
+            "Location 1":"500 Moultrie\rSan Francisco, CA\r(37.73844636, -122.41615685)",
+            "Lat":"",
+            "title":"BERNAL HEIGHTS RECREATION CENTER",
+            "description":"500 Moultrie\rSan Francisco, CA\r(37.73844636, -122.41615685)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7k4bf015"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.413873,
+               37.742892
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knel4004aivm3utqlpzm4"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"BILLY GOAT HILL",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 5",
+            "PSAManager":"O'Brien, Teresa",
+            "email":"teresa.o'brien@sfgov.org",
+            "Number":"(415) 819-2699",
+            "Zipcode":"94131",
+            "Acreage":"3.67",
+            "SupDist":"8",
+            "ParkID":"5",
+            "Location 1":"30th\rSan Francisco, CA\r(37.74140787, -122.43319872)",
+            "Lat":"",
+            "title":"BILLY GOAT HILL",
+            "description":"30th\rSan Francisco, CA\r(37.74140787, -122.43319872)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7k4bf016"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.42929,
+               37.741753
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knel6004bivm39n73aaen"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"29TH/DIAMOND OPEN SPACE",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 5",
+            "PSAManager":"O'Brien, Teresa",
+            "email":"teresa.o'brien@sfgov.org",
+            "Number":"(415) 819-2699",
+            "Zipcode":"94131",
+            "Acreage":"0.82",
+            "SupDist":"8",
+            "ParkID":"194",
+            "Location 1":"Diamond\rSan Francisco, CA\r(37.74360211, -122.43523589)",
+            "Lat":"",
+            "title":"29TH/DIAMOND OPEN SPACE",
+            "description":"Diamond\rSan Francisco, CA\r(37.74360211, -122.43523589)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7k4beyr"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.434577,
+               37.73737
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knel8004civm3mymvxfrh"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"BUCHANAN STREET MALL",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 2",
+            "PSAManager":"O'Connor, Tom",
+            "email":"tom.o'connor@sfgov.org",
+            "Number":"(415) 218-0259",
+            "Zipcode":"94102",
+            "Acreage":"1.81",
+            "SupDist":"5",
+            "ParkID":"121",
+            "Location 1":"Buchanan\rSan Francisco, CA\r(37.77949531, -122.42856481)",
+            "Lat":"",
+            "title":"BUCHANAN STREET MALL",
+            "description":"Buchanan\rSan Francisco, CA\r(37.77949531, -122.42856481)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7k4bf118"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.428306,
+               37.779442
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knel9004divm3qld7ccdb"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"CABRILLO PLAYGROUND",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 1",
+            "PSAManager":"Elder, Steve",
+            "email":"steven.elder@sfgov.org",
+            "Number":"(415) 601-6501",
+            "Zipcode":"94121",
+            "Acreage":"0.89",
+            "SupDist":"1",
+            "ParkID":"95",
+            "Location 1":"858 38th Ave\rSan Francisco, CA\r(37.77286672, -122.49870214)",
+            "title":"CABRILLO PLAYGROUND",
+            "description":"858 38th Ave\rSan Francisco, CA\r(37.77286672, -122.49870214)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7k4bf119"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.499103,
+               37.781005
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knelb004eivm3i0sjhcft"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"BROOKS PARK",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 4",
+            "PSAManager":"Sheehy, Chuck",
+            "email":"charles.sheehy@sfgov.org",
+            "Number":"(415) 218-2226",
+            "Zipcode":"94132",
+            "Acreage":"3.77",
+            "SupDist":"11",
+            "ParkID":"18",
+            "Location 1":"373 Ramsell St\rSan Francisco, CA\r(37.71727397, -122.46676875)",
+            "Lat":"",
+            "title":"BROOKS PARK",
+            "description":"373 Ramsell St\rSan Francisco, CA\r(37.71727397, -122.46676875)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7k4bf017"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.466238,
+               37.718164
+            ],
+            "type":"Point"
+         },
+         "id":"cia7kneld004fivm3c1j1pbbx"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"CARL LARSEN PARK",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 4",
+            "PSAManager":"Sheets, Robert",
+            "email":"robert.sheets@sfgov.org",
+            "Number":"(415) 235-4576",
+            "Zipcode":"94116",
+            "Acreage":"6.58",
+            "SupDist":"4",
+            "ParkID":"86",
+            "Location 1":"19th Ave\nSan Francisco, CA\n(37.73929782, -122.47596603)",
+            "Lat":"",
+            "title":"CARL LARSEN PARK",
+            "description":"19th Ave\nSan Francisco, CA\n(37.73929782, -122.47596603)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7k6e7s1a"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.475358,
+               37.739327
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knele004givm3paj8fyji"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"CHINESE RECREATION CENTER",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 1",
+            "PSAManager":"Cleveland, Maggie",
+            "email":"maggie.cleveland@sfgov.org",
+            "Number":"(415) 254-8014",
+            "Zipcode":"94108",
+            "Acreage":"0.65",
+            "SupDist":"3",
+            "ParkID":"140",
+            "Location 1":"1101 Washington St\nSan Francisco, CA\n(37.79420965, -122.41178577)",
+            "Lat":"",
+            "title":"CHINESE RECREATION CENTER",
+            "description":"1101 Washington St\nSan Francisco, CA\n(37.79420965, -122.41178577)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7k6e7u1c"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.400575,
+               37.795863
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knelg004hivm322q43o3z"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"CORONA HEIGHTS",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 5",
+            "PSAManager":"O'Brien, Teresa",
+            "email":"teresa.o'brien@sfgov.org",
+            "Number":"(415) 819-2699",
+            "Zipcode":"94114",
+            "Acreage":"13.38",
+            "SupDist":"8",
+            "ParkID":"80",
+            "Location 1":"Roosevelt\nSan Francisco, CA\n(37.76497671, -122.43879691)",
+            "Lat":"",
+            "title":"CORONA HEIGHTS",
+            "description":"Roosevelt\nSan Francisco, CA\n(37.76497671, -122.43879691)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7k6e7u1d"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.465999,
+               37.724299
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knelh004iivm3nilgwolo"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"COW HOLLOW PLAYGROUND",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 1",
+            "PSAManager":"Figone, Joe",
+            "email":"joseph.figone@sfgov.org",
+            "Number":"(415) 713-4997",
+            "Zipcode":"94123",
+            "Acreage":"0.15",
+            "SupDist":"2",
+            "ParkID":"110",
+            "Location 1":"1 Miley St\nSan Francisco, CA\n(37.79733829, -122.44485143)",
+            "Lat":"",
+            "title":"COW HOLLOW PLAYGROUND",
+            "description":"1 Miley St\nSan Francisco, CA\n(37.79733829, -122.44485143)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7k6e7v1e"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.445692,
+               37.797225
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knelj004jivm3zjv3htgy"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"CROCKER AMAZON PLAYGROUND",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 3",
+            "PSAManager":"Taylor, Zack",
+            "email":"zack.taylor@sfgov.org",
+            "Number":"(415) 601-7277",
+            "Zipcode":"94112",
+            "Acreage":"56.46",
+            "SupDist":"11",
+            "ParkID":"164",
+            "Location 1":"Moscow\nSan Francisco, CA\n(37.7140459, -122.42923866)",
+            "Lat":"",
+            "title":"CROCKER AMAZON PLAYGROUND",
+            "description":"Moscow\nSan Francisco, CA\n(37.7140459, -122.42923866)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7k6e7w1f"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.431063,
+               37.717167
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knell004kivm3ec2bq5vn"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"DIAMOND/FARNUM OPEN SPACE",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 5",
+            "PSAManager":"Lockwood, Darlene",
+            "email":"darlene.lockwood@sfgov.org",
+            "Number":"(415) 717-2872",
+            "Zipcode":"94131",
+            "Acreage":"0.07",
+            "SupDist":"8",
+            "ParkID":"181",
+            "Location 1":"Diamond\nSan Francisco, CA\n(37.73880241, -122.43431084)",
+            "Lat":"",
+            "title":"DIAMOND/FARNUM OPEN SPACE",
+            "description":"Diamond\nSan Francisco, CA\n(37.73880241, -122.43431084)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7k6e7x1g"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.434577,
+               37.73737
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knelm004livm3vj3v6ata"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"DOROTHY ERSKINE PARK",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 5",
+            "PSAManager":"Lockwood, Darlene",
+            "email":"darlene.lockwood@sfgov.org",
+            "Number":"(415) 717-2872",
+            "Zipcode":"94131",
+            "Acreage":"1.5",
+            "SupDist":"8",
+            "ParkID":"179",
+            "Location 1":"Martha\nSan Francisco, CA\n(37.73391249, -122.43944536)",
+            "Lat":"",
+            "title":"DOROTHY ERSKINE PARK",
+            "description":"Martha\nSan Francisco, CA\n(37.73391249, -122.43944536)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7k6e7y1h"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.440165,
+               37.734391
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knelo004mivm3q5hbnldq"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"DOUGLASS PLAYGROUND",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 5",
+            "PSAManager":"Lockwood, Darlene",
+            "email":"darlene.lockwood@sfgov.org",
+            "Number":"(415) 717-2872",
+            "Zipcode":"94131",
+            "Acreage":"7.45",
+            "SupDist":"8",
+            "ParkID":"8",
+            "Location 1":"26th\nSan Francisco, CA\n(37.74727823, -122.43893283)",
+            "Lat":"",
+            "title":"DOUGLASS PLAYGROUND",
+            "description":"26th\nSan Francisco, CA\n(37.74727823, -122.43893283)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7k6e7y1i"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.396793,
+               37.755651
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knelp004nivm3roc44wdc"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"DUBOCE PARK",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 6",
+            "PSAManager":"Field, Adrian",
+            "email":"adrian.field@sfgov.org",
+            "Number":"(415) 717-2872",
+            "Zipcode":"94117",
+            "Acreage":"4.31",
+            "SupDist":"8",
+            "ParkID":"113",
+            "Location 1":"Duboce\nSan Francisco, CA\n(37.769615, -122.43342784)",
+            "Lat":"",
+            "title":"DUBOCE PARK",
+            "description":"Duboce\nSan Francisco, CA\n(37.769615, -122.43342784)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7k6e801j"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.423358,
+               37.769574
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knelr004oivm3ci27ru63"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"CAYUGA PLAYGROUND",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 3",
+            "PSAManager":"Taylor, Zack",
+            "email":"zack.taylor@sfgov.org",
+            "Number":"(415) 601-7277",
+            "Zipcode":"94112",
+            "Acreage":"2.69",
+            "SupDist":"11",
+            "ParkID":"15",
+            "Location 1":"301 Naglee Ave\nSan Francisco, CA\n(37.71388814, -122.45029719)",
+            "Lat":"",
+            "title":"CAYUGA PLAYGROUND",
+            "description":"301 Naglee Ave\nSan Francisco, CA\n(37.71388814, -122.45029719)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7k6e7u1b"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.450383,
+               37.71503
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knelt004pivm3jb8zmmvn"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"DUPONT COURTS",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 1",
+            "PSAManager":"Elder, Steve",
+            "email":"steven.elder@sfgov.org",
+            "Number":"(415) 601-6501",
+            "Zipcode":"94121",
+            "Acreage":"0.82",
+            "SupDist":"1",
+            "ParkID":"98",
+            "Location 1":"336 31st Ave\nSan Francisco, CA\n(37.78268787, -122.4908331)",
+            "Lat":"",
+            "title":"DUPONT COURTS",
+            "description":"336 31st Ave\nSan Francisco, CA\n(37.78268787, -122.4908331)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7k6e811l"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.491281,
+               37.781461
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knelu004qivm33jngctc6"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"EDGEHILL MOUNTAIN",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 4",
+            "PSAManager":"Sheehy, Chuck",
+            "email":"charles.sheehy@sfgov.org",
+            "Number":"(415) 218-2226",
+            "Zipcode":"94127",
+            "Acreage":"2.33",
+            "SupDist":"7",
+            "ParkID":"71",
+            "Location 1":"Edgehill\nSan Francisco, CA\n(37.74203025, -122.45976472)",
+            "Lat":"",
+            "title":"EDGEHILL MOUNTAIN",
+            "description":"Edgehill\nSan Francisco, CA\n(37.74203025, -122.45976472)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7k6e821m"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.461056,
+               37.742932
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knelw004rivm3evyh1mrp"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"EUREKA VALLEY REC CENTER",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 5",
+            "PSAManager":"O'Brien, Teresa",
+            "email":"teresa.o'brien@sfgov.org",
+            "Number":"(415) 819-2699",
+            "Zipcode":"94114",
+            "Acreage":"1.93",
+            "SupDist":"8",
+            "ParkID":"75",
+            "Location 1":"100 Collingwood St\nSan Francisco, CA\n(37.75978957, -122.43648069)",
+            "Lat":"",
+            "title":"EUREKA VALLEY REC CENTER",
+            "description":"100 Collingwood St\nSan Francisco, CA\n(37.75978957, -122.43648069)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7k6e831n"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.435307,
+               37.755716
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knely004sivm3n1z74ena"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"EVERSON/DIGBY LOTS",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 5",
+            "PSAManager":"Lockwood, Darlene",
+            "email":"darlene.lockwood@sfgov.org",
+            "Number":"(415) 717-2872",
+            "Zipcode":"94131",
+            "Acreage":"1.2",
+            "SupDist":"8",
+            "ParkID":"6",
+            "Location 1":"61 Everson St\nSan Francisco, CA\n(37.73807643, -122.43177574)",
+            "Lat":"",
+            "title":"EVERSON/DIGBY LOTS",
+            "description":"61 Everson St\nSan Francisco, CA\n(37.73807643, -122.43177574)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7k6e831o"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.431611,
+               37.73825
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knelz004tivm39xx6q8xc"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"EXCELSIOR PLAYGROUND",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 3",
+            "PSAManager":"Taylor, Zack",
+            "email":"zack.taylor@sfgov.org",
+            "Number":"(415) 601-7277",
+            "Zipcode":"94112",
+            "Acreage":"1.61",
+            "SupDist":"11",
+            "ParkID":"29",
+            "Location 1":"Russia Ave\nSan Francisco, CA\n(37.7203554, -122.43321862)",
+            "Lat":"",
+            "title":"EXCELSIOR PLAYGROUND",
+            "description":"Russia Ave\nSan Francisco, CA\n(37.7203554, -122.43321862)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7k6e831p"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.431106,
+               37.72478
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knem1004uivm34ngev5n2"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"FAIRMOUNT PLAZA",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 6",
+            "PSAManager":"Miller, John",
+            "email":"john.miller@sfgov.org",
+            "Number":"(415) 513-2577",
+            "Zipcode":"94131",
+            "Acreage":"0.74",
+            "SupDist":"8",
+            "ParkID":"3",
+            "Location 1":"Miquel\nSan Francisco, CA\n(37.73849226, -122.42913147)",
+            "Lat":"",
+            "title":"FAIRMOUNT PLAZA",
+            "description":"Miquel\nSan Francisco, CA\n(37.73849226, -122.42913147)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7k6e841q"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.427818,
+               37.738548
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knem3004vivm3c6p4kzv0"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"FATHER ALFRED E. BOEDDEKER PARK",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 2",
+            "PSAManager":"Hill, Eric",
+            "email":"eric.hill@sfgov.org",
+            "Number":"(415) 254-8030",
+            "Zipcode":"94102",
+            "Acreage":"0.97",
+            "SupDist":"6",
+            "ParkID":"134",
+            "Location 1":"295 Eddy St\nSan Francisco, CA\n(37.78439513, -122.4120591)",
+            "Lat":"",
+            "title":"FATHER ALFRED E. BOEDDEKER PARK",
+            "description":"295 Eddy St\nSan Francisco, CA\n(37.78439513, -122.4120591)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7k6e841r"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.414644,
+               37.783674
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knem4004wivm3w608xyie"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"FAY PARK",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 1",
+            "PSAManager":"Cleveland, Maggie",
+            "email":"maggie.cleveland@sfgov.org",
+            "Number":"(415) 254-8014",
+            "Zipcode":"94133",
+            "Acreage":"0.25",
+            "SupDist":"3",
+            "ParkID":"184",
+            "Location 1":"2366 Leavenworth St\nSan Francisco, CA\n(37.80289031, -122.4178443)",
+            "title":"FAY PARK",
+            "description":"2366 Leavenworth St\nSan Francisco, CA\n(37.80289031, -122.4178443)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7k6e851s"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.414461,
+               37.78481
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knem6004xivm3yz1fmhdr"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"DUNCAN/CASTRO OPEN SPACE",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 5",
+            "PSAManager":"O'Brien, Teresa",
+            "email":"teresa.o'brien@sfgov.org",
+            "Number":"(415) 819-2699",
+            "Zipcode":"94131",
+            "Acreage":"0.55",
+            "SupDist":"8",
+            "ParkID":"178",
+            "Location 1":"Duncan\nSan Francisco, CA\n(37.74594931, -122.43339409)",
+            "Lat":"",
+            "title":"DUNCAN/CASTRO OPEN SPACE",
+            "description":"Duncan\nSan Francisco, CA\n(37.74594931, -122.43339409)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7k6e801k"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.445545,
+               37.762844
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knem8004yivm3cw9q8sps"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"FULTON PLAYGROUND",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 1",
+            "PSAManager":"Elder, Steve",
+            "email":"steven.elder@sfgov.org",
+            "Number":"(415) 601-6501",
+            "Zipcode":"94121",
+            "Acreage":"0.82",
+            "SupDist":"1",
+            "ParkID":"96",
+            "Location 1":"855 27th Ave\nSan Francisco, CA\n(37.7733822, -122.48693405)",
+            "Lat":"",
+            "title":"FULTON PLAYGROUND",
+            "description":"855 27th Ave\nSan Francisco, CA\n(37.7733822, -122.48693405)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7k8r271t"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.487,
+               37.781657
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knem9004zivm3z4v9h1nu"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"GARFIELD SQUARE",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 6",
+            "PSAManager":"Field, Adrian",
+            "email":"adrian.field@sfgov.org",
+            "Number":"(415) 717-2872",
+            "Zipcode":"94110",
+            "Acreage":"2.93",
+            "SupDist":"9",
+            "ParkID":"24",
+            "Location 1":"26th\nSan Francisco, CA\n(37.75020058, -122.4122356)",
+            "Lat":"",
+            "title":"GARFIELD SQUARE",
+            "description":"26th\nSan Francisco, CA\n(37.75020058, -122.4122356)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7k8r271u"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.468288,
+               37.719849
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knemb0050ivm32d6izb50"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"GENE FRIEND REC CENTER",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 2",
+            "PSAManager":"Hill, Eric",
+            "email":"eric.hill@sfgov.org",
+            "Number":"(415) 254-8030",
+            "Zipcode":"94103",
+            "Acreage":"1.02",
+            "SupDist":"6",
+            "ParkID":"57",
+            "Location 1":"270 6th St\nSan Francisco, CA\n(37.77863929, -122.40635191)",
+            "Lat":"",
+            "title":"GENE FRIEND REC CENTER",
+            "description":"270 6th St\nSan Francisco, CA\n(37.77863929, -122.40635191)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7k8r271v"
+         },
+         "geometry":{
+            "coordinates":[
+               -78.880796,
+               38.072552
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knemd0051ivm3t6wvsyzy"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"GEORGE CHRISTOPHER PLAYGROUND",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 5",
+            "PSAManager":"Lockwood, Darlene",
+            "email":"darlene.lockwood@sfgov.org",
+            "Number":"(415) 717-2872",
+            "Zipcode":"94131",
+            "Acreage":"6.8",
+            "SupDist":"8",
+            "ParkID":"7",
+            "Location 1":"5210 Diamond Heights Blvd\nSan Francisco, CA\n(37.74347014, -122.44055037)",
+            "Lat":"",
+            "title":"GEORGE CHRISTOPHER PLAYGROUND",
+            "description":"5210 Diamond Heights Blvd\nSan Francisco, CA\n(37.74347014, -122.44055037)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7k8r281w"
+         },
+         "geometry":{
+            "coordinates":[
+               -118.686303,
+               42.977117
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knemf0052ivm3fqaw3fo6"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"GILMAN PLAYGROUND",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 3",
+            "PSAManager":"Watkins, Robert",
+            "email":"robert.watkins@sfgov.org",
+            "Number":"(415) 819-6138",
+            "Zipcode":"94124",
+            "Acreage":"4.4",
+            "SupDist":"10",
+            "ParkID":"44",
+            "Location 1":"Gilman Ave\nSan Francisco, CA\n(37.71698202, -122.38809021)",
+            "Lat":"",
+            "title":"GILMAN PLAYGROUND",
+            "description":"Gilman Ave\nSan Francisco, CA\n(37.71698202, -122.38809021)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7k8r281x"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.395421,
+               37.722362
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knemg0053ivm39bi7qst0"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"GOLDEN GATE HEIGHTS PARK",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 4",
+            "PSAManager":"Sheehy, Chuck",
+            "email":"charles.sheehy@sfgov.org",
+            "Number":"(415) 218-2226",
+            "Zipcode":"94116",
+            "Acreage":"6.95",
+            "SupDist":"7",
+            "ParkID":"89",
+            "Location 1":"12th Ave (off Pacheco\nSan Francisco, CA\n(37.74998538, -122.46940674)",
+            "Lat":"",
+            "title":"GOLDEN GATE HEIGHTS PARK",
+            "description":"12th Ave (off Pacheco\nSan Francisco, CA\n(37.74998538, -122.46940674)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7k8r281y"
+         },
+         "geometry":{
+            "coordinates":[
+               -74.785467,
+               39.426241
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knemi0054ivm3juq9gyvl"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"GRAND VIEW OPEN SPACE",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 4",
+            "PSAManager":"Sheehy, Chuck",
+            "email":"charles.sheehy@sfgov.org",
+            "Number":"(415) 218-2226",
+            "Zipcode":"94122",
+            "Acreage":"0.65",
+            "SupDist":"7",
+            "ParkID":"12910",
+            "Location 1":"15th Ave\nSan Francisco, CA\n(37.75507227, -122.47235155)",
+            "Lat":"",
+            "title":"GRAND VIEW OPEN SPACE",
+            "description":"15th Ave\nSan Francisco, CA\n(37.75507227, -122.47235155)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7k8r2a1z"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.473958,
+               37.780259
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knemj0055ivm3v6uisgqq"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"GRAND VIEW PARK",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 4",
+            "PSAManager":"Sheehy, Chuck",
+            "email":"charles.sheehy@sfgov.org",
+            "Number":"(415) 218-2226",
+            "Zipcode":"94122",
+            "Acreage":"3.98",
+            "SupDist":"7",
+            "ParkID":"92",
+            "Location 1":"Moraga\nSan Francisco, CA\n(37.75646571, -122.47180128)",
+            "Lat":"",
+            "title":"GRAND VIEW PARK",
+            "description":"Moraga\nSan Francisco, CA\n(37.75646571, -122.47180128)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7k8r2a20"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.441445,
+               37.758005
+            ],
+            "type":"Point"
+         },
+         "id":"cia7kneml0056ivm3lyo7g2uq"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"GRATTAN PLAYGROUND",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 2",
+            "PSAManager":"O'Connor, Tom",
+            "email":"tom.o'connor@sfgov.org",
+            "Number":"(415) 218-0259",
+            "Zipcode":"94117",
+            "Acreage":"1.52",
+            "SupDist":"5",
+            "ParkID":"104",
+            "Location 1":"1180 Stanyan St\nSan Francisco, CA\n(37.76259314, -122.45147654)",
+            "Lat":"",
+            "title":"GRATTAN PLAYGROUND",
+            "description":"1180 Stanyan St\nSan Francisco, CA\n(37.76259314, -122.45147654)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7k8r2a21"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.454505,
+               37.773979
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knemn0057ivm3jbj55uhp"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"HAMILTON REC CENTER",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 2",
+            "PSAManager":"O'Connor, Tom",
+            "email":"tom.o'connor@sfgov.org",
+            "Number":"(415) 218-0259",
+            "Zipcode":"94115",
+            "Acreage":"3.22",
+            "SupDist":"5",
+            "ParkID":"125",
+            "Location 1":"1900 Geary Blvd\nSan Francisco, CA\n(37.78441485, -122.43603929)",
+            "Lat":"",
+            "title":"HAMILTON REC CENTER",
+            "description":"1900 Geary Blvd\nSan Francisco, CA\n(37.78441485, -122.43603929)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7k8r2b22"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.491354,
+               37.77986
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knemo0058ivm3rkfa0w2q"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"HAWK HILL",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 4",
+            "PSAManager":"Sheehy, Chuck",
+            "email":"charles.sheehy@sfgov.org",
+            "Number":"(415) 218-2226",
+            "Zipcode":"94116",
+            "Acreage":"4.85",
+            "SupDist":"7",
+            "ParkID":"186",
+            "Location 1":"14th Ave Rivera\nSan Francisco, CA\n(37.74657651, -122.46872941)",
+            "Lat":"",
+            "title":"HAWK HILL",
+            "description":"14th Ave Rivera\nSan Francisco, CA\n(37.74657651, -122.46872941)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7k8r2b23"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.470857,
+               37.746755
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knemq0059ivm3p5z5pfjx"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"HAYES VALLEY PLAYGROUND",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 2",
+            "PSAManager":"O'Connor, Tom",
+            "email":"tom.o'connor@sfgov.org",
+            "Number":"(415) 218-0259",
+            "Zipcode":"94102",
+            "Acreage":"0.61",
+            "SupDist":"5",
+            "ParkID":"116",
+            "Location 1":"Hayes\nSan Francisco, CA\n(37.77606034, -122.42736714)",
+            "Lat":"",
+            "title":"HAYES VALLEY PLAYGROUND",
+            "description":"Hayes\nSan Francisco, CA\n(37.77606034, -122.42736714)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7k8r2b24"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.435168,
+               37.77486
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knems005aivm3kdys3rx0"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"HELEN WILLS PLAYGROUND",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 1",
+            "PSAManager":"Figone, Joe",
+            "email":"joseph.figone@sfgov.org",
+            "Number":"(415) 713-4997",
+            "Zipcode":"94109",
+            "Acreage":"0.8",
+            "SupDist":"3",
+            "ParkID":"130",
+            "Location 1":"BRdway\nSan Francisco, CA\n(37.79577299, -122.42066143)",
+            "Lat":"",
+            "title":"HELEN WILLS PLAYGROUND",
+            "description":"BRdway\nSan Francisco, CA\n(37.79577299, -122.42066143)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7k8r2b25"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.416128,
+               37.790817
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knemt005bivm3oeg6gsn2"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"HERZ PLAYGROUND",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 3",
+            "PSAManager":"Taylor, Zack",
+            "email":"zack.taylor@sfgov.org",
+            "Number":"(415) 601-7277",
+            "Zipcode":"94134",
+            "Acreage":"6.68",
+            "SupDist":"10",
+            "ParkID":"137671",
+            "Location 1":"Hahn\nSan Francisco, CA\n(37.71348444, -122.41659732)",
+            "Lat":"",
+            "title":"HERZ PLAYGROUND",
+            "description":"Hahn\nSan Francisco, CA\n(37.71348444, -122.41659732)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7k8r2b26"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.414729,
+               37.714206
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knemv005civm3k5uc0tzv"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"HILLTOP PARK",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 3",
+            "PSAManager":"Watkins, Robert",
+            "email":"robert.watkins@sfgov.org",
+            "Number":"(415) 819-6138",
+            "Zipcode":"94124",
+            "Acreage":"3.46",
+            "SupDist":"10",
+            "ParkID":"47",
+            "Location 1":"La Salle\nSan Francisco, CA\n(37.73291728, -122.38347479)",
+            "Lat":"",
+            "title":"HILLTOP PARK",
+            "description":"La Salle\nSan Francisco, CA\n(37.73291728, -122.38347479)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7k8r2c27"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.385905,
+               37.734456
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knemx005divm3d59hhyy5"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"Hunter's Point Recreation Center",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 3",
+            "PSAManager":"Watkins, Robert",
+            "email":"robert.watkins@sfgov.org",
+            "Number":"(415) 695-5004",
+            "Zipcode":"94124",
+            "Acreage":"0.3",
+            "SupDist":"10",
+            "ParkID":"165",
+            "Location 1":"200 Middle Point Rd\nSan Francisco, CA\n(37.73735, -122.37834)",
+            "Lat":"",
+            "title":"Hunter's Point Recreation Center",
+            "description":"200 Middle Point Rd\nSan Francisco, CA\n(37.73735, -122.37834)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7k8r2c28"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.379439,
+               37.734422
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knemy005eivm384g8ttz9"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"INDIA BASIN SHORELINE PARK",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 3",
+            "PSAManager":"Watkins, Robert",
+            "email":"robert.watkins@sfgov.org",
+            "Number":"(415) 819-6138",
+            "Zipcode":"94124",
+            "Acreage":"11.57",
+            "SupDist":"10",
+            "ParkID":"48",
+            "Location 1":"Evans\nSan Francisco, CA\n(37.73366342, -122.37371901)",
+            "Lat":"",
+            "title":"INDIA BASIN SHORELINE PARK",
+            "description":"Evans\nSan Francisco, CA\n(37.73366342, -122.37371901)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7k8r2c29"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.375164,
+               37.744792
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knen0005fivm3gwkrap58"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"INTERIOR GREEN BELT",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 4",
+            "PSAManager":"Sheehy, Chuck",
+            "email":"charles.sheehy@sfgov.org",
+            "Number":"(415) 218-2226",
+            "Zipcode":"94131",
+            "Acreage":"21.35",
+            "SupDist":"7",
+            "ParkID":"87",
+            "Location 1":"Belmont\nSan Francisco, CA\n(37.7585442, -122.45319935)",
+            "Lat":"",
+            "title":"INTERIOR GREEN BELT",
+            "description":"Belmont\nSan Francisco, CA\n(37.7585442, -122.45319935)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7k8r2c2a"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.449321,
+               37.772343
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knen8005givm3z48qrwdn"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"J. P. MURPHY PLAYGROUND",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 4",
+            "PSAManager":"Sheehy, Chuck",
+            "email":"charles.sheehy@sfgov.org",
+            "Number":"(415) 218-2226",
+            "Zipcode":"94116",
+            "Acreage":"1.23",
+            "SupDist":"7",
+            "ParkID":"90",
+            "Location 1":"1960 9th Ave\nSan Francisco, CA\n(37.75180107, -122.46500011)",
+            "title":"J. P. MURPHY PLAYGROUND",
+            "description":"1960 9th Ave\nSan Francisco, CA\n(37.75180107, -122.46500011)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7k8r2c2b"
+         },
+         "geometry":{
+            "coordinates":[
+               -86.256276,
+               33.837986
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knena005hivm3kf5b850g"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"LAFAYETTE PARK",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 1",
+            "PSAManager":"Figone, Joe",
+            "email":"joseph.figone@sfgov.org",
+            "Number":"(415) 713-4997",
+            "Zipcode":"94109",
+            "Acreage":"11.49",
+            "SupDist":"2",
+            "ParkID":"128",
+            "Location 1":"Gough\nSan Francisco, CA\n(37.79154983, -122.42767158)",
+            "Lat":"",
+            "title":"LAFAYETTE PARK",
+            "description":"Gough\nSan Francisco, CA\n(37.79154983, -122.42767158)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7kboat2m"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.424526,
+               37.784537
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knenc005iivm3dj567xnh"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"JAMES ROLPH JR PLAYGROUND",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 6",
+            "PSAManager":"Field, Adrian",
+            "email":"adrian.field@sfgov.org",
+            "Number":"(415) 717-2872",
+            "Zipcode":"94110",
+            "Acreage":"2.93",
+            "SupDist":"9",
+            "ParkID":"50",
+            "Location 1":"Potrero\nSan Francisco, CA\n(37.7497274, -122.40623124)",
+            "Lat":"",
+            "title":"JAMES ROLPH JR PLAYGROUND",
+            "description":"Potrero\nSan Francisco, CA\n(37.7497274, -122.40623124)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7kboak2c"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.399539,
+               37.764269
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knend005jivm3ap46zzt0"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"JOSE CORONADO PLAYGROUND",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 6",
+            "PSAManager":"Field, Adrian",
+            "email":"adrian.field@sfgov.org",
+            "Number":"(415) 717-2872",
+            "Zipcode":"94110",
+            "Acreage":"0.78",
+            "SupDist":"9",
+            "ParkID":"60",
+            "Location 1":"21st\nSan Francisco, CA\n(37.75754628, -122.41510589)",
+            "Lat":"",
+            "title":"JOSE CORONADO PLAYGROUND",
+            "description":"21st\nSan Francisco, CA\n(37.75754628, -122.41510589)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7kboam2f"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.498245,
+               37.737326
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knenf005kivm3mzgrhmzg"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"JOSEPH LEE RECREATION CENTER",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 3",
+            "PSAManager":"Watkins, Robert",
+            "email":"robert.watkins@sfgov.org",
+            "Number":"(415) 819-6138",
+            "Zipcode":"94124",
+            "Acreage":"0.78",
+            "SupDist":"10",
+            "ParkID":"40",
+            "Location 1":"1395 Mendell St\nSan Francisco, CA\n(37.73453491, -122.389412)",
+            "Lat":"",
+            "title":"JOSEPH LEE RECREATION CENTER",
+            "description":"1395 Mendell St\nSan Francisco, CA\n(37.73453491, -122.389412)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7kboan2g"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.384824,
+               37.740763
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knenh005livm3c1ma63dv"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"JULIUS KAHN PLAYGROUND",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 1",
+            "PSAManager":"Figone, Joe",
+            "email":"joseph.figone@sfgov.org",
+            "Number":"(415) 713-4997",
+            "Zipcode":"94118",
+            "Acreage":"12.38",
+            "SupDist":"2",
+            "ParkID":"166",
+            "Location 1":"Pacific Ave\nSan Francisco, CA\n(37.79131306, -122.45397275)",
+            "Lat":"",
+            "title":"JULIUS KAHN PLAYGROUND",
+            "description":"Pacific Ave\nSan Francisco, CA\n(37.79131306, -122.45397275)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7kboap2h"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.402288,
+               37.797473
+            ],
+            "type":"Point"
+         },
+         "id":"cia7kneni005mivm384ia278n"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"JUNIPERO SERRA PLAYGROUND",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 4",
+            "PSAManager":"Sheehy, Chuck",
+            "email":"charles.sheehy@sfgov.org",
+            "Number":"(415) 218-2226",
+            "Zipcode":"94132",
+            "Acreage":"1.53",
+            "SupDist":"7",
+            "ParkID":"13",
+            "Location 1":"300 Stonecrest Dr\nSan Francisco, CA\n(37.72482337, -122.47385187)",
+            "Lat":"",
+            "title":"JUNIPERO SERRA PLAYGROUND",
+            "description":"300 Stonecrest Dr\nSan Francisco, CA\n(37.72482337, -122.47385187)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7kboaq2i"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.472158,
+               37.726961
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knenk005nivm3ejj4q07i"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"KID POWER PARK",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 6",
+            "PSAManager":"Field, Adrian",
+            "email":"adrian.field@sfgov.org",
+            "Number":"(415) 717-2872",
+            "Zipcode":"94110",
+            "Acreage":"0.23",
+            "SupDist":"6",
+            "ParkID":"191",
+            "Location 1":"45 Hoff St\nSan Francisco, CA\n(37.76415431, -122.42027989)",
+            "Lat":"",
+            "title":"KID POWER PARK",
+            "description":"45 Hoff St\nSan Francisco, CA\n(37.76415431, -122.42027989)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7kboar2j"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.420433,
+               37.763376
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knenm005oivm32b4z9f3a"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"KITE HILL",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 5",
+            "PSAManager":"O'Brien, Teresa",
+            "email":"teresa.o'brien@sfgov.org",
+            "Number":"(415) 819-2699",
+            "Zipcode":"94114",
+            "Acreage":"2.87",
+            "SupDist":"8",
+            "ParkID":"74",
+            "Location 1":"Yukon\nSan Francisco, CA\n(37.75824114, -122.44166171)",
+            "Lat":"",
+            "title":"KITE HILL",
+            "description":"Yukon\nSan Francisco, CA\n(37.75824114, -122.44166171)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7kboas2k"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.442411,
+               37.758676
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knenn005pivm3s8ve0zb4"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"KOSHLAND PARK",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 2",
+            "PSAManager":"O'Connor, Tom",
+            "email":"tom.o'connor@sfgov.org",
+            "Number":"(415) 218-0259",
+            "Zipcode":"94102",
+            "Acreage":"0.82",
+            "SupDist":"5",
+            "ParkID":"115",
+            "Location 1":"Page\nSan Francisco, CA\n(37.77324835, -122.42672942)",
+            "Lat":"",
+            "title":"KOSHLAND PARK",
+            "description":"Page\nSan Francisco, CA\n(37.77324835, -122.42672942)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7kboas2l"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.408981,
+               37.765015
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knenp005qivm30h23hr5h"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"JOE DIMAGGIO PLAYGROUND",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 1",
+            "PSAManager":"Cleveland, Maggie",
+            "email":"maggie.cleveland@sfgov.org",
+            "Number":"(415) 254-8014",
+            "Zipcode":"94133",
+            "Acreage":"2.52",
+            "SupDist":"3",
+            "ParkID":"150",
+            "Location 1":"651 Lombard St\nSan Francisco, CA\n(37.80248342, -122.41206911)",
+            "Lat":"",
+            "title":"JOE DIMAGGIO PLAYGROUND",
+            "description":"651 Lombard St\nSan Francisco, CA\n(37.80248342, -122.41206911)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7kboal2e"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.408375,
+               37.803405
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knenr005rivm378se0fbi"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"LAUREL HILL PLAYGROUND",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 1",
+            "PSAManager":"Figone, Joe",
+            "email":"joseph.figone@sfgov.org",
+            "Number":"(415) 713-4997",
+            "Zipcode":"94118",
+            "Acreage":"1.47",
+            "SupDist":"2",
+            "ParkID":"107",
+            "Location 1":"251 Euclid Ave\nSan Francisco, CA\n(37.78393678, -122.45093931)",
+            "Lat":"",
+            "title":"LAUREL HILL PLAYGROUND",
+            "description":"251 Euclid Ave\nSan Francisco, CA\n(37.78393678, -122.45093931)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7kboat2n"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.453016,
+               37.783799
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knens005sivm3yjo9kunk"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"LITTLE HOLLYWOOD PARK",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 3",
+            "PSAManager":"Watkins, Robert",
+            "email":"robert.watkins@sfgov.org",
+            "Number":"(415) 819-6138",
+            "Zipcode":"94134",
+            "Acreage":"1.31",
+            "SupDist":"10",
+            "ParkID":"42",
+            "Location 1":"Lathrop\nSan Francisco, CA\n(37.70996909, -122.39820878)",
+            "Lat":"",
+            "title":"LITTLE HOLLYWOOD PARK",
+            "description":"Lathrop\nSan Francisco, CA\n(37.70996909, -122.39820878)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7kboat2o"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.400222,
+               37.710621
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knenu005tivm30j8krd0h"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"LOUIS SUTTER PLAYGROUND",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 3",
+            "PSAManager":"Taylor, Zack",
+            "email":"zack.taylor@sfgov.org",
+            "Number":"(415) 601-7277",
+            "Zipcode":"94134",
+            "Acreage":"13.92",
+            "SupDist":"10",
+            "ParkID":"137665",
+            "Location 1":"Wayland\nSan Francisco, CA\n(37.72245982, -122.41392441)",
+            "Lat":"",
+            "title":"LOUIS SUTTER PLAYGROUND",
+            "description":"Wayland\nSan Francisco, CA\n(37.72245982, -122.41392441)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7kboat2p"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.402693,
+               37.72642
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knenv005uivm3gxhk74al"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"MARGARET S HAYWARD PLAYGROUND",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 2",
+            "PSAManager":"O'Connor, Tom",
+            "email":"tom.o'connor@sfgov.org",
+            "Number":"(415) 218-0259",
+            "Zipcode":"94102",
+            "Acreage":"5.03",
+            "SupDist":"6",
+            "ParkID":"119",
+            "Location 1":"1016 Laguna\nSan Francisco, CA\n(37.78084683, -122.425427)",
+            "Lat":"",
+            "title":"MARGARET S HAYWARD PLAYGROUND",
+            "description":"1016 Laguna\nSan Francisco, CA\n(37.78084683, -122.425427)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7kboau2q"
+         },
+         "geometry":{
+            "coordinates":[
+               -123.365108,
+               42.505888
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knenx005vivm3m9o7yimx"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"MCCOPPIN SQUARE",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 4",
+            "PSAManager":"Sheets, Robert",
+            "email":"robert.sheets@sfgov.org",
+            "Number":"(415) 235-4576",
+            "Zipcode":"94116",
+            "Acreage":"7.24",
+            "SupDist":"4",
+            "ParkID":"88",
+            "Location 1":"24th\nSan Francisco, CA\n(37.74382723, -122.48007959)",
+            "Lat":"",
+            "title":"MCCOPPIN SQUARE",
+            "description":"24th\nSan Francisco, CA\n(37.74382723, -122.48007959)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7kboau2r"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.421618,
+               37.771424
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knenz005wivm3vkfyjqm7"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"MCKINLEY SQUARE",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 2",
+            "PSAManager":"Hill, Eric",
+            "email":"eric.hill@sfgov.org",
+            "Number":"(415) 254-8030",
+            "Zipcode":"94107",
+            "Acreage":"2.81",
+            "SupDist":"10",
+            "ParkID":"53",
+            "Location 1":"20th St\nSan Francisco, CA\n(37.75913976, -122.40469058)",
+            "Lat":"",
+            "title":"MCKINLEY SQUARE",
+            "description":"20th St\nSan Francisco, CA\n(37.75913976, -122.40469058)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7kboau2s"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.389605,
+               37.760463
+            ],
+            "type":"Point"
+         },
+         "id":"cia7kneo0005xivm3ye1e1z5a"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"MERCED HEIGHTS PLAYGROUND",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 4",
+            "PSAManager":"Sheehy, Chuck",
+            "email":"charles.sheehy@sfgov.org",
+            "Number":"(415) 218-2226",
+            "Zipcode":"94132",
+            "Acreage":"1.03",
+            "SupDist":"11",
+            "ParkID":"17",
+            "Location 1":"Byxbee\nSan Francisco, CA\n(37.71750931, -122.47028126)",
+            "Lat":"",
+            "title":"MERCED HEIGHTS PLAYGROUND",
+            "description":"Byxbee\nSan Francisco, CA\n(37.71750931, -122.47028126)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7kboav2t"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.460336,
+               37.745073
+            ],
+            "type":"Point"
+         },
+         "id":"cia7kneo2005yivm3hyat2sa8"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"MICHELANGELO PLAYGROUND",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 1",
+            "PSAManager":"Cleveland, Maggie",
+            "email":"maggie.cleveland@sfgov.org",
+            "Number":"(415) 254-8014",
+            "Zipcode":"94133",
+            "Acreage":"0.44",
+            "SupDist":"3",
+            "ParkID":"148",
+            "Location 1":"Greenwich\nSan Francisco, CA\n(37.80109573, -122.41689916)",
+            "title":"MICHELANGELO PLAYGROUND",
+            "description":"Greenwich\nSan Francisco, CA\n(37.80109573, -122.41689916)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7kboav2u"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.416877,
+               37.801205
+            ],
+            "type":"Point"
+         },
+         "id":"cia7kneo4005zivm30by3ai4i"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"JEFFERSON SQUARE",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 2",
+            "PSAManager":"O'Connor, Tom",
+            "email":"tom.o'connor@sfgov.org",
+            "Number":"(415) 218-0259",
+            "Zipcode":"94102",
+            "Acreage":"5.64",
+            "SupDist":"6",
+            "ParkID":"122",
+            "Location 1":"Eddy\nSan Francisco, CA\n(37.78180034, -122.42565792)",
+            "Lat":"",
+            "title":"JEFFERSON SQUARE",
+            "description":"Eddy\nSan Francisco, CA\n(37.78180034, -122.42565792)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7kboal2d"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.417136,
+               37.807761
+            ],
+            "type":"Point"
+         },
+         "id":"cia7kneo50060ivm30594tw2o"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"MINNIE & LOVIE WARD REC CENTER",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 4",
+            "PSAManager":"Sheehy, Chuck",
+            "email":"charles.sheehy@sfgov.org",
+            "Number":"(415) 218-2226",
+            "Zipcode":"94112",
+            "Acreage":"10.3",
+            "SupDist":"11",
+            "ParkID":"19",
+            "Location 1":"650 Capitol\nSan Francisco, CA\n(37.71577016, -122.45757024)",
+            "Lat":"",
+            "title":"MINNIE & LOVIE WARD REC CENTER",
+            "description":"650 Capitol\nSan Francisco, CA\n(37.71577016, -122.45757024)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7ke3l32v"
+         },
+         "geometry":{
+            "coordinates":[
+               -1.626664,
+               53.776621
+            ],
+            "type":"Point"
+         },
+         "id":"cia7kneo70061ivm3jm646kvo"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"MIRALOMA PLAYGROUND",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 5",
+            "PSAManager":"Lockwood, Darlene",
+            "email":"darlene.lockwood@sfgov.org",
+            "Number":"(415) 717-2872",
+            "Zipcode":"94127",
+            "Acreage":"2.2",
+            "SupDist":"7",
+            "ParkID":"70",
+            "Location 1":"Omar\nSan Francisco, CA\n(37.73864614, -122.44931265)",
+            "Lat":"",
+            "title":"MIRALOMA PLAYGROUND",
+            "description":"Omar\nSan Francisco, CA\n(37.73864614, -122.44931265)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7ke3l32w"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.459648,
+               37.739917
+            ],
+            "type":"Point"
+         },
+         "id":"cia7kneo90062ivm37ga00mza"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"MISSION DOLORES PARK",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 6",
+            "PSAManager":"Field, Adrian",
+            "email":"adrian.field@sfgov.org",
+            "Number":"(415) 717-2872",
+            "Zipcode":"94114",
+            "Acreage":"15.94",
+            "SupDist":"8",
+            "ParkID":"63",
+            "Location 1":"19th\nSan Francisco, CA\n(37.75975506, -122.42709405)",
+            "Lat":"",
+            "title":"MISSION DOLORES PARK",
+            "description":"19th\nSan Francisco, CA\n(37.75975506, -122.42709405)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7ke3l42x"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.423057,
+               37.740109
+            ],
+            "type":"Point"
+         },
+         "id":"cia7kneoa0063ivm37q2wjp4z"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"MISSION PLAYGROUND",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 6",
+            "PSAManager":"Field, Adrian",
+            "email":"adrian.field@sfgov.org",
+            "Number":"(415) 717-2872",
+            "Zipcode":"94110",
+            "Acreage":"2.03",
+            "SupDist":"8",
+            "ParkID":"61",
+            "Location 1":"19th\nSan Francisco, CA\n(37.7592917, -122.42230064)",
+            "Lat":"",
+            "title":"MISSION PLAYGROUND",
+            "description":"19th\nSan Francisco, CA\n(37.7592917, -122.42230064)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7ke3l42y"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.423057,
+               37.740109
+            ],
+            "type":"Point"
+         },
+         "id":"cia7kneoc0064ivm32g0rczx2"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"MISSION REC CENTER",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 6",
+            "PSAManager":"Field, Adrian",
+            "email":"adrian.field@sfgov.org",
+            "Number":"(415) 717-2872",
+            "Zipcode":"94110",
+            "Acreage":"0.63",
+            "SupDist":"9",
+            "ParkID":"59",
+            "Location 1":"2450 Harrison St\nSan Francisco, CA\n(37.75813659, -122.41292225)",
+            "Lat":"",
+            "title":"MISSION REC CENTER",
+            "description":"2450 Harrison St\nSan Francisco, CA\n(37.75813659, -122.41292225)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7ke3l52z"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.392616,
+               37.786321
+            ],
+            "type":"Point"
+         },
+         "id":"cia7kneoe0065ivm35qsssag6"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"MOSCONE RECREATION CENTER",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 1",
+            "PSAManager":"Figone, Joe",
+            "email":"joseph.figone@sfgov.org",
+            "Number":"(415) 713-4997",
+            "Zipcode":"94123",
+            "Acreage":"12.07",
+            "SupDist":"2",
+            "ParkID":"132",
+            "Location 1":"1800 Chestnut St\nSan Francisco, CA\n(37.8021249, -122.43313532)",
+            "Lat":"",
+            "title":"MOSCONE RECREATION CENTER",
+            "description":"1800 Chestnut St\nSan Francisco, CA\n(37.8021249, -122.43313532)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7ke3l930"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.434602,
+               37.801027
+            ],
+            "type":"Point"
+         },
+         "id":"cia7kneog0066ivm3dh86a9d7"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"MOUNTAIN LAKE PARK",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 1",
+            "PSAManager":"Elder, Steve",
+            "email":"steven.elder@sfgov.org",
+            "Number":"(415) 601-6501",
+            "Zipcode":"94118",
+            "Acreage":"12.79",
+            "SupDist":"2",
+            "ParkID":"102",
+            "Location 1":"1 11th Ave\nSan Francisco, CA\n(37.78724257, -122.4690454)",
+            "Lat":"",
+            "title":"MOUNTAIN LAKE PARK",
+            "description":"1 11th Ave\nSan Francisco, CA\n(37.78724257, -122.4690454)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7ke3la31"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.469605,
+               37.78044
+            ],
+            "type":"Point"
+         },
+         "id":"cia7kneoh0067ivm311xa8i8i"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"NOE VALLEY COURTS",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 5",
+            "PSAManager":"O'Brien, Teresa",
+            "email":"teresa.o'brien@sfgov.org",
+            "Number":"(415) 819-2699",
+            "Zipcode":"94114",
+            "Acreage":"0.93",
+            "SupDist":"8",
+            "ParkID":"72",
+            "Location 1":"24th\nSan Francisco, CA\n(37.75140324, -122.43892096)",
+            "Lat":"",
+            "title":"NOE VALLEY COURTS",
+            "description":"24th\nSan Francisco, CA\n(37.75140324, -122.43892096)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7ke3la32"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.43102,
+               37.745501
+            ],
+            "type":"Point"
+         },
+         "id":"cia7kneoj0068ivm31d2ftsxm"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"PALEGA RECREATION CENTER",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 3",
+            "PSAManager":"Watkins, Robert",
+            "email":"robert.watkins@sfgov.org",
+            "Number":"(415) 819-6138",
+            "Zipcode":"94134",
+            "Acreage":"4.97",
+            "SupDist":"9",
+            "ParkID":"30",
+            "Location 1":"500 Felton St\nSan Francisco, CA\n(37.72934205, -122.40978)",
+            "Lat":"",
+            "title":"PALEGA RECREATION CENTER",
+            "description":"500 Felton St\nSan Francisco, CA\n(37.72934205, -122.40978)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7ke3la33"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.409124,
+               37.728617
+            ],
+            "type":"Point"
+         },
+         "id":"cia7kneol0069ivm3kikseoao"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"PALOU/PHELPS PARK",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 3",
+            "PSAManager":"Watkins, Robert",
+            "email":"robert.watkins@sfgov.org",
+            "Number":"(415) 819-6138",
+            "Zipcode":"94124",
+            "Acreage":"2.63",
+            "SupDist":"10",
+            "ParkID":"188",
+            "Location 1":"Palou\nSan Francisco, CA\n(37.73551382, -122.39472336)",
+            "Lat":"",
+            "title":"PALOU/PHELPS PARK",
+            "description":"Palou\nSan Francisco, CA\n(37.73551382, -122.39472336)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7ke3lb34"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.400275,
+               37.739606
+            ],
+            "type":"Point"
+         },
+         "id":"cia7kneom006aivm3s5gehdt1"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"PARKSIDE SQUARE",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 4",
+            "PSAManager":"Sheets, Robert",
+            "email":"robert.sheets@sfgov.org",
+            "Number":"(415) 235-4576",
+            "Zipcode":"94132",
+            "Acreage":"8.31",
+            "SupDist":"4",
+            "ParkID":"84",
+            "Location 1":"28th Ave\nSan Francisco, CA\n(37.73794781, -122.48390596)",
+            "Lat":"",
+            "title":"PARKSIDE SQUARE",
+            "description":"28th Ave\nSan Francisco, CA\n(37.73794781, -122.48390596)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7ke3lb35"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.486906,
+               37.765054
+            ],
+            "type":"Point"
+         },
+         "id":"cia7kneoo006bivm3xi4i31oy"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"PARQUE NINOS UNIDOS",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 6",
+            "PSAManager":"Field, Adrian",
+            "email":"adrian.field@sfgov.org",
+            "Number":"(415) 717-2872",
+            "Zipcode":"94110",
+            "Acreage":"0.53",
+            "SupDist":"9",
+            "ParkID":"187",
+            "Location 1":"23rd\nSan Francisco, CA\n(37.75439053, -122.41356906)",
+            "Lat":"",
+            "title":"PARQUE NINOS UNIDOS",
+            "description":"23rd\nSan Francisco, CA\n(37.75439053, -122.41356906)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7ke3lb36"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.422198,
+               37.710469
+            ],
+            "type":"Point"
+         },
+         "id":"cia7kneoq006civm3h6fwny3h"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"PEIXOTTO PLAYGROUND",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 5",
+            "PSAManager":"O'Brien, Teresa",
+            "email":"teresa.o'brien@sfgov.org",
+            "Number":"(415) 819-2699",
+            "Zipcode":"94114",
+            "Acreage":"0.79",
+            "SupDist":"8",
+            "ParkID":"195",
+            "Location 1":"15th St\nSan Francisco, CA\n(37.76578838, -122.43790519)",
+            "Lat":"",
+            "title":"PEIXOTTO PLAYGROUND",
+            "description":"15th St\nSan Francisco, CA\n(37.76578838, -122.43790519)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7ke3lb37"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.436459,
+               37.765666
+            ],
+            "type":"Point"
+         },
+         "id":"cia7kneor006divm36x23ptgo"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"PORTSMOUTH SQUARE",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 1",
+            "PSAManager":"Cleveland, Maggie",
+            "email":"maggie.cleveland@sfgov.org",
+            "Number":"(415) 254-8014",
+            "Zipcode":"94108",
+            "Acreage":"1.29",
+            "SupDist":"3",
+            "ParkID":"141",
+            "Location 1":"Washington\nSan Francisco, CA\n(37.79483492, -122.40535067)",
+            "Lat":"",
+            "title":"PORTSMOUTH SQUARE",
+            "description":"Washington\nSan Francisco, CA\n(37.79483492, -122.40535067)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7ke3lc38"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.450909,
+               37.739753
+            ],
+            "type":"Point"
+         },
+         "id":"cia7kneot006eivm3jxavx4a8"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"POTRERO DEL SOL PARK",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 6",
+            "PSAManager":"Field, Adrian",
+            "email":"adrian.field@sfgov.org",
+            "Number":"(415) 717-2872",
+            "Zipcode":"94110",
+            "Acreage":"4.36",
+            "SupDist":"10",
+            "ParkID":"49",
+            "Location 1":"Potrero\nSan Francisco, CA\n(37.75060695, -122.40507971)",
+            "Lat":"",
+            "title":"POTRERO DEL SOL PARK",
+            "description":"Potrero\nSan Francisco, CA\n(37.75060695, -122.40507971)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7ke3lc39"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.399797,
+               37.752801
+            ],
+            "type":"Point"
+         },
+         "id":"cia7kneov006fivm3zwjqflu9"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"POTRERO HILL RECREATION CENTER",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 2",
+            "PSAManager":"Hill, Eric",
+            "email":"eric.hill@sfgov.org",
+            "Number":"(415) 254-8030",
+            "Zipcode":"94107",
+            "Acreage":"10.07",
+            "SupDist":"10",
+            "ParkID":"52",
+            "Location 1":"801 Arkansas St\nSan Francisco, CA\n(37.75613966, -122.39688179)",
+            "Lat":"",
+            "title":"POTRERO HILL RECREATION CENTER",
+            "description":"801 Arkansas St\nSan Francisco, CA\n(37.75613966, -122.39688179)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7ke3ld3a"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.398045,
+               37.760939
+            ],
+            "type":"Point"
+         },
+         "id":"cia7kneow006givm32ckne8xu"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"PRECITA PARK",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 6",
+            "PSAManager":"Miller, John",
+            "email":"john.miller@sfgov.org",
+            "Number":"(415) 513-2577",
+            "Zipcode":"94110",
+            "Acreage":"2.21",
+            "SupDist":"9",
+            "ParkID":"37",
+            "Location 1":"3200 Folsom St\nSan Francisco, CA\n(37.74706232, -122.41202466)",
+            "Lat":"",
+            "title":"PRECITA PARK",
+            "description":"3200 Folsom St\nSan Francisco, CA\n(37.74706232, -122.41202466)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7ke3ld3b"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.393923,
+               37.787739
+            ],
+            "type":"Point"
+         },
+         "id":"cia7kneoy006hivm3txqqcqyx"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"PRESIDIO HEIGHTS PLAYGROUND",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 1",
+            "PSAManager":"Figone, Joe",
+            "email":"joseph.figone@sfgov.org",
+            "Number":"(415) 713-4997",
+            "Zipcode":"94118",
+            "Acreage":"0.44",
+            "SupDist":"2",
+            "ParkID":"109",
+            "Location 1":"Clay\nSan Francisco, CA\n(37.78847078, -122.4495972)",
+            "Lat":"",
+            "title":"PRESIDIO HEIGHTS PLAYGROUND",
+            "description":"Clay\nSan Francisco, CA\n(37.78847078, -122.4495972)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7ke3ld3c"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.460681,
+               37.788045
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knep0006iivm3xbwewzkm"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"RAYMOND KIMBELL PLAYGROUND",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 2",
+            "PSAManager":"O'Connor, Tom",
+            "email":"tom.o'connor@sfgov.org",
+            "Number":"(415) 218-0259",
+            "Zipcode":"94115",
+            "Acreage":"0",
+            "SupDist":"5",
+            "ParkID":"124",
+            "Location 1":"Geary Blvd\nSan Francisco, CA\n(37.78294403, -122.43512653)",
+            "title":"RAYMOND KIMBELL PLAYGROUND",
+            "description":"Geary Blvd\nSan Francisco, CA\n(37.78294403, -122.43512653)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7ke3ld3d"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.491354,
+               37.77986
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knep1006jivm3lntqpkle"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"TANK HILL",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 5",
+            "PSAManager":"O'Brien, Teresa",
+            "email":"teresa.o'brien@sfgov.org",
+            "Number":"(415) 819-2699",
+            "Zipcode":"94117",
+            "Acreage":"2.87",
+            "SupDist":"5",
+            "ParkID":"76",
+            "Location 1":"Clarendon\nSan Francisco, CA\n(37.75994801, -122.44768643)",
+            "Lat":"",
+            "title":"TANK HILL",
+            "description":"Clarendon\nSan Francisco, CA\n(37.75994801, -122.44768643)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7kgrxd3r"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.455372,
+               37.738904
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knep3006kivm3hzu9nr4s"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"RICHMOND RECREATION CENTER",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 1",
+            "PSAManager":"Elder, Steve",
+            "email":"steven.elder@sfgov.org",
+            "Number":"(415) 601-6501",
+            "Zipcode":"94121",
+            "Acreage":"0.82",
+            "SupDist":"1",
+            "ParkID":"172",
+            "Location 1":"251 18th Ave\nSan Francisco, CA\n(37.78326998, -122.47797676)",
+            "Lat":"",
+            "title":"RICHMOND RECREATION CENTER",
+            "description":"251 18th Ave\nSan Francisco, CA\n(37.78326998, -122.47797676)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7kgrwz3e"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.477216,
+               37.780111
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knep5006livm34edcdlyv"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"ROCK OUTCROPPING",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 4",
+            "PSAManager":"Sheets, Robert",
+            "email":"robert.sheets@sfgov.org",
+            "Number":"(415) 235-4576",
+            "Zipcode":"94116",
+            "Acreage":"1.4",
+            "SupDist":"7",
+            "ParkID":"175",
+            "Location 1":"Ortega\nSan Francisco, CA\n(37.75384487, -122.47086479)",
+            "Lat":"",
+            "title":"ROCK OUTCROPPING",
+            "description":"Ortega\nSan Francisco, CA\n(37.75384487, -122.47086479)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7kgrx13g"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.453366,
+               37.737623
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knep6006mivm3foyyt28q"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"ROLPH NICOL PLAYGROUND",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 4",
+            "PSAManager":"Sheets, Robert",
+            "email":"robert.sheets@sfgov.org",
+            "Number":"(415) 235-4576",
+            "Zipcode":"94132",
+            "Acreage":"3.04",
+            "SupDist":"7",
+            "ParkID":"9",
+            "Location 1":"Eucalyptus Dr\nSan Francisco, CA\n(37.73060291, -122.48041933)",
+            "Lat":"",
+            "title":"ROLPH NICOL PLAYGROUND",
+            "description":"Eucalyptus Dr\nSan Francisco, CA\n(37.73060291, -122.48041933)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7kgrx23h"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.477232,
+               37.731118
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knep8006nivm3oq73mrfu"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"RUSSIAN HILL OPEN SPACE",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 1",
+            "PSAManager":"Cleveland, Maggie",
+            "email":"maggie.cleveland@sfgov.org",
+            "Number":"(415) 254-8014",
+            "Zipcode":"94109",
+            "Acreage":"0.96",
+            "SupDist":"2",
+            "ParkID":"153",
+            "Location 1":"Hyde\nSan Francisco, CA\n(37.80341611, -122.42075699)",
+            "Lat":"",
+            "title":"RUSSIAN HILL OPEN SPACE",
+            "description":"Hyde\nSan Francisco, CA\n(37.80341611, -122.42075699)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7kgrx23i"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.415246,
+               37.798099
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knep9006oivm36c9tiw2d"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"SILVER TERRACE PLAYGROUND",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 3",
+            "PSAManager":"Watkins, Robert",
+            "email":"robert.watkins@sfgov.org",
+            "Number":"(415) 819-6138",
+            "Zipcode":"94124",
+            "Acreage":"5.47",
+            "SupDist":"10",
+            "ParkID":"39",
+            "Location 1":"Thornton\nSan Francisco, CA\n(37.73285911, -122.40314958)",
+            "Lat":"",
+            "title":"SILVER TERRACE PLAYGROUND",
+            "description":"Thornton\nSan Francisco, CA\n(37.73285911, -122.40314958)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7kgrx33j"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.396643,
+               37.731179
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knepb006pivm3vsmh0uw7"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"SOUTH PARK",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 2",
+            "PSAManager":"Hill, Eric",
+            "email":"eric.hill@sfgov.org",
+            "Number":"(415) 254-8030",
+            "Zipcode":"94107",
+            "Acreage":"1.12",
+            "SupDist":"6",
+            "ParkID":"56",
+            "Location 1":"64 Park Ave\nSan Francisco, CA\n(37.78157949, -122.39395227)",
+            "Lat":"",
+            "title":"SOUTH PARK",
+            "description":"64 Park Ave\nSan Francisco, CA\n(37.78157949, -122.39395227)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7kgrx33k"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.395065,
+               37.780701
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knepc006qivm3hnezkqqk"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"SOUTH SUNSET PLAYGROUND",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 4",
+            "PSAManager":"Sheets, Robert",
+            "email":"robert.sheets@sfgov.org",
+            "Number":"(415) 235-4576",
+            "Zipcode":"94116",
+            "Acreage":"3.72",
+            "SupDist":"4",
+            "ParkID":"85",
+            "Location 1":"40th Ave\nSan Francisco, CA\n(37.73738679, -122.49845174)",
+            "Lat":"",
+            "title":"SOUTH SUNSET PLAYGROUND",
+            "description":"40th Ave\nSan Francisco, CA\n(37.73738679, -122.49845174)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7kgrx43l"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.498453,
+               37.745786
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knepe006rivm3ebuqr2o1"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"ST MARY'S REC CENTER",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 6",
+            "PSAManager":"Miller, John",
+            "email":"john.miller@sfgov.org",
+            "Number":"(415) 513-2577",
+            "Zipcode":"94110",
+            "Acreage":"13.6",
+            "SupDist":"9",
+            "ParkID":"31",
+            "Location 1":"Murray\nSan Francisco, CA\n(37.73365828, -122.42064294)",
+            "Lat":"",
+            "title":"ST MARY'S REC CENTER",
+            "description":"Murray\nSan Francisco, CA\n(37.73365828, -122.42064294)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7kgrx43m"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.428463,
+               37.734714
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knepg006sivm3ry55tyq6"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"STATES STREET PLAYGROUND",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 5",
+            "PSAManager":"O'Brien, Teresa",
+            "email":"teresa.o'brien@sfgov.org",
+            "Number":"(415) 819-2699",
+            "Zipcode":"94114",
+            "Acreage":"2.76",
+            "SupDist":"8",
+            "ParkID":"200",
+            "Location 1":"86 States St\nSan Francisco, CA\n(37.76380044, -122.43785312)",
+            "Lat":"",
+            "title":"STATES STREET PLAYGROUND",
+            "description":"86 States St\nSan Francisco, CA\n(37.76380044, -122.43785312)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7kgrx83n"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.442181,
+               37.765
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knepi006tivm3rva40925"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"SUE BIERMAN PARK",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 1",
+            "PSAManager":"Cleveland, Maggie",
+            "email":"maggie.cleveland@sfgov.org",
+            "Number":"(415) 601-7277",
+            "Zipcode":"94111",
+            "Acreage":"4.41",
+            "SupDist":"3",
+            "ParkID":"143",
+            "Location 1":"Clay St\nSan Francisco, CA\n(37.79592597, -122.3965106)",
+            "Lat":"",
+            "title":"SUE BIERMAN PARK",
+            "description":"Clay St\nSan Francisco, CA\n(37.79592597, -122.3965106)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7kgrxa3o"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.400487,
+               37.794958
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knepj006uivm3mzarqz4t"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"SUNNYSIDE PLAYGROUND",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 5",
+            "PSAManager":"Lockwood, Darlene",
+            "email":"darlene.lockwood@sfgov.org",
+            "Number":"(415) 717-2872",
+            "Zipcode":"94127",
+            "Acreage":"2.37",
+            "SupDist":"7",
+            "ParkID":"67",
+            "Location 1":"Teresita Ave\nSan Francisco, CA\n(37.73366412, -122.4474787)",
+            "Lat":"",
+            "title":"SUNNYSIDE PLAYGROUND",
+            "description":"Teresita Ave\nSan Francisco, CA\n(37.73366412, -122.4474787)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7kgrxb3p"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.449868,
+               37.738404
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knepl006vivm394m7yrod"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"SUNSET PLAYGROUND",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 4",
+            "PSAManager":"Sheets, Robert",
+            "email":"robert.sheets@sfgov.org",
+            "Number":"(415) 235-4576",
+            "Zipcode":"94122",
+            "Acreage":"3.29",
+            "SupDist":"4",
+            "ParkID":"93",
+            "Location 1":"2201 Lawton St\nSan Francisco, CA\n(37.75658875, -122.48684698)",
+            "Lat":"",
+            "title":"SUNSET PLAYGROUND",
+            "description":"2201 Lawton St\nSan Francisco, CA\n(37.75658875, -122.48684698)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7kgrxc3q"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.467338,
+               37.758138
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knepm006wivm3kj45z2os"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"ROCHAMBEAU PLAYGROUND",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 1",
+            "PSAManager":"Elder, Steve",
+            "email":"steven.elder@sfgov.org",
+            "Number":"(415) 601-6501",
+            "Zipcode":"94121",
+            "Acreage":"0.83",
+            "SupDist":"1",
+            "ParkID":"99",
+            "Location 1":"238 25th Ave\nSan Francisco, CA\n(37.78483852, -122.48454408)",
+            "Lat":"",
+            "title":"ROCHAMBEAU PLAYGROUND",
+            "description":"238 25th Ave\nSan Francisco, CA\n(37.78483852, -122.48454408)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7kgrx03f"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.484854,
+               37.781758
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knepo006xivm3irfaoc27"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"TENDERLOIN CHILDREN'S REC CENTER",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 2",
+            "PSAManager":"Hill, Eric",
+            "email":"eric.hill@sfgov.org",
+            "Number":"(415) 254-8030",
+            "Zipcode":"94109",
+            "Acreage":"0.61",
+            "SupDist":"6",
+            "ParkID":"168",
+            "Location 1":"570 Ellis St\nSan Francisco, CA\n(37.78482103, -122.41540228)",
+            "Lat":"",
+            "title":"TENDERLOIN CHILDREN'S REC CENTER",
+            "description":"570 Ellis St\nSan Francisco, CA\n(37.78482103, -122.41540228)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7kgrxe3s"
+         },
+         "geometry":{
+            "coordinates":[
+               -123.428542,
+               44.868899
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knepp006yivm3pecaywz5"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"UPPER NOE RECREATION CENTER",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 5",
+            "PSAManager":"O'Brien, Teresa",
+            "email":"teresa.o'brien@sfgov.org",
+            "Number":"(415) 819-2699",
+            "Zipcode":"94131",
+            "Acreage":"2.51",
+            "SupDist":"8",
+            "ParkID":"22",
+            "Location 1":"Day\nSan Francisco, CA\n(37.74243091, -122.42779751)",
+            "Lat":"",
+            "title":"UPPER NOE RECREATION CENTER",
+            "description":"Day\nSan Francisco, CA\n(37.74243091, -122.42779751)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7kgrxf3t"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.43102,
+               37.745501
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knepr006zivm3rpgx52jw"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"VICTORIA MANALO DRAVES PARK",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 2",
+            "PSAManager":"Hill, Eric",
+            "email":"eric.hill@sfgov.org",
+            "Number":"(415) 254-8030",
+            "Zipcode":"94103",
+            "Acreage":"2.52",
+            "SupDist":"6",
+            "ParkID":"169",
+            "Location 1":"Folsom\nSan Francisco, CA\n(37.77700947, -122.40595532)",
+            "Lat":"",
+            "title":"VICTORIA MANALO DRAVES PARK",
+            "description":"Folsom\nSan Francisco, CA\n(37.77700947, -122.40595532)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7kgrxg3u"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.46515,
+               37.71407
+            ],
+            "type":"Point"
+         },
+         "id":"cia7kneps0070ivm3jscxrvp4"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"WEST PORTAL PLAYGROUND",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 4",
+            "PSAManager":"Sheets, Robert",
+            "email":"robert.sheets@sfgov.org",
+            "Number":"(415) 235-4576",
+            "Zipcode":"94127",
+            "Acreage":"1.91",
+            "SupDist":"7",
+            "ParkID":"68",
+            "Location 1":"Ulloa\nSan Francisco, CA\n(37.74160392, -122.46524393)",
+            "Lat":"",
+            "title":"WEST PORTAL PLAYGROUND",
+            "description":"Ulloa\nSan Francisco, CA\n(37.74160392, -122.46524393)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7kgrxg3v"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.469094,
+               37.738336
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knept0071ivm3jt5dyq81"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"WEST SUNSET PLAYGROUND",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 4",
+            "PSAManager":"Sheets, Robert",
+            "email":"robert.sheets@sfgov.org",
+            "Number":"(415) 235-4576",
+            "Zipcode":"94116",
+            "Acreage":"17.16",
+            "SupDist":"4",
+            "ParkID":"91",
+            "Location 1":"3223 Ortega St &amp; 39th Ave\nSan Francisco, CA\n(37.74899627, -122.49800859)",
+            "Lat":"",
+            "title":"WEST SUNSET PLAYGROUND",
+            "description":"3223 Ortega St &amp; 39th Ave\nSan Francisco, CA\n(37.74899627, -122.49800859)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7kgrxh3w"
+         },
+         "geometry":{
+            "coordinates":[
+               0,
+               0
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knepv0072ivm35qnacms4"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"WOH HEI YUEN PARK",
+            "ParkType":"Neighborhood Park or Playground",
+            "ParkServiceArea":"PSA 1",
+            "PSAManager":"Cleveland, Maggie",
+            "email":"maggie.cleveland@sfgov.org",
+            "Number":"(415) 254-8014",
+            "Zipcode":"94133",
+            "Acreage":"0.31",
+            "SupDist":"3",
+            "ParkID":"170",
+            "Location 1":"922 Jackson St\nSan Francisco, CA\n(37.79584858, -122.41033649)",
+            "title":"WOH HEI YUEN PARK",
+            "description":"922 Jackson St\nSan Francisco, CA\n(37.79584858, -122.41033649)",
+            "marker-color":"f5c272",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7kgrxi3x"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.403497,
+               37.796417
+            ],
+            "type":"Point"
+         },
+         "id":"cia7knepy0073ivm37jmfrmtj"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"LINCOLN PARK",
+            "ParkType":"Regional Park",
+            "ParkServiceArea":"PSA 1",
+            "PSAManager":"Elder, Steve",
+            "email":"steven.elder@sfgov.org",
+            "Number":"(415) 601-6501",
+            "Zipcode":"94121",
+            "Acreage":"112.03",
+            "SupDist":"1",
+            "ParkID":"103",
+            "Location 1":"34th Ave\nSan Francisco, CA\n(37.78423843, -122.49838278)",
+            "Lat":"",
+            "title":"LINCOLN PARK",
+            "description":"34th Ave\nSan Francisco, CA\n(37.78423843, -122.49838278)",
+            "marker-color":"a3e46b",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7klqlw42"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.494576,
+               37.781871
+            ],
+            "type":"Point"
+         },
+         "id":"cia7kneq60078ivm3beqx4ory"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"SIGMUND STERN RECREATION GROVE",
+            "ParkType":"Regional Park",
+            "ParkServiceArea":"PSA 4",
+            "PSAManager":"Sheets, Robert",
+            "email":"robert.sheets@sfgov.org",
+            "Number":"(415) 235-4576",
+            "Zipcode":"94132",
+            "Acreage":"33.78",
+            "SupDist":"4",
+            "ParkID":"83",
+            "Location 1":"19th Ave\nSan Francisco, CA\n(37.73608224, -122.47829786)",
+            "Lat":"",
+            "title":"Golden Gate Regional Park",
+            "description":"19th Ave\nSan Francisco, CA\n(37.73608224, -122.47829786)",
+            "marker-color":"a3e46b",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7klqlx44"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.480907,
+               37.76895
+            ],
+            "type":"Point"
+         },
+         "id":"cia7kneq9007aivm3f0nhtrw1"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"BUENA VISTA PARK",
+            "ParkType":"Regional Park",
+            "ParkServiceArea":"PSA 5",
+            "PSAManager":"O'Brien, Teresa",
+            "email":"teresa.o'brien@sfgov.org",
+            "Number":"(415) 819-2699",
+            "Zipcode":"94117",
+            "Acreage":"36.08",
+            "SupDist":"8",
+            "ParkID":"81",
+            "Location 1":"Buena Vista\nSan Francisco, CA\n(37.7685639, -122.44137945)",
+            "Lat":"",
+            "title":"BUENA VISTA PARK",
+            "description":"Buena Vista\nSan Francisco, CA\n(37.7685639, -122.44137945)",
+            "marker-color":"a3e46b",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7kpwj80"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.441854,
+               37.76834
+            ],
+            "type":"Point"
+         },
+         "id":"cia7l4zzd001hjkm3vmb9lzex"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"GLEN PARK",
+            "ParkType":"Regional Park",
+            "ParkServiceArea":"PSA 5",
+            "PSAManager":"Lockwood, Darlene",
+            "email":"darlene.lockwood@sfgov.org",
+            "Number":"(415) 717-2872",
+            "Zipcode":"94127",
+            "Acreage":"77.94",
+            "SupDist":"8",
+            "ParkID":"1",
+            "Location 1":"Elk St\nSan Francisco, CA\n(37.7400257, -122.44273225)",
+            "Lat":"",
+            "title":"GLEN PARK",
+            "description":"Elk St\nSan Francisco, CA\n(37.7400257, -122.44273225)",
+            "marker-color":"a3e46b",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7kpwja1"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.441554,
+               37.740177
+            ],
+            "type":"Point"
+         },
+         "id":"cia7l4zze001ijkm3nbzsknxc"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"JOHN MCLAREN PARK",
+            "ParkType":"Regional Park",
+            "ParkServiceArea":"PSA 3",
+            "PSAManager":"Taylor, Zack",
+            "email":"zack.taylor@sfgov.org",
+            "Number":"(415) 601-7277",
+            "Zipcode":"94112",
+            "Acreage":"312.54",
+            "SupDist":"10",
+            "ParkID":"28",
+            "Location 1":"Mansell\nSan Francisco, CA\n(37.7180842, -122.41907209)",
+            "Lat":"",
+            "title":"JOHN MCLAREN PARK",
+            "description":"Mansell\nSan Francisco, CA\n(37.7180842, -122.41907209)",
+            "marker-color":"a3e46b",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7kpwjd3"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.41765,
+               37.717724
+            ],
+            "type":"Point"
+         },
+         "id":"cia7l4zzf001jjkm3x2r7j7mi"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"LINCOLN PARK",
+            "ParkType":"Regional Park",
+            "ParkServiceArea":"PSA 1",
+            "PSAManager":"Elder, Steve",
+            "email":"steven.elder@sfgov.org",
+            "Number":"(415) 601-6501",
+            "Zipcode":"94121",
+            "Acreage":"112.03",
+            "SupDist":"1",
+            "ParkID":"103",
+            "Location 1":"34th Ave\nSan Francisco, CA\n(37.78423843, -122.49838278)",
+            "Lat":"",
+            "title":"LINCOLN PARK",
+            "description":"34th Ave\nSan Francisco, CA\n(37.78423843, -122.49838278)",
+            "marker-color":"a3e46b",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7kpwje4"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.494576,
+               37.781871
+            ],
+            "type":"Point"
+         },
+         "id":"cia7l4zzg001kjkm385ao1bqu"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "ParkName":"SIGMUND STERN RECREATION GROVE",
+            "ParkType":"Regional Park",
+            "ParkServiceArea":"PSA 4",
+            "PSAManager":"Sheets, Robert",
+            "email":"robert.sheets@sfgov.org",
+            "Number":"(415) 235-4576",
+            "Zipcode":"94132",
+            "Acreage":"33.78",
+            "SupDist":"4",
+            "ParkID":"83",
+            "Location 1":"19th Ave\nSan Francisco, CA\n(37.73608224, -122.47829786)",
+            "title":"SIGMUND STERN RECREATION GROVE",
+            "description":"19th Ave\nSan Francisco, CA\n(37.73608224, -122.47829786)",
+            "marker-color":"a3e46b",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked",
+            "id":"marker-ia7kpwjg6"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.478332,
+               37.736172
+            ],
+            "type":"Point"
+         },
+         "id":"cia7l4zzh001ljkm3nm3vdppu"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"marker-ia7kwssh9",
+            "title":"PINE LAKE PARK",
+            "description":"Sloat Blvd\nSan Francisco, CA\n(37.7363086, -122.48592744)",
+            "marker-color":"a3e46b",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.485713,
+               37.736138
+            ],
+            "type":"Point"
+         },
+         "id":"cia7l4zzj001mjkm3a61bjc8c"
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"marker-ia7ksvl47",
+            "title":"",
+            "description":"",
+            "marker-color":"a3e46b",
+            "marker-size":"medium",
+            "marker-symbol":"marker-stroked"
+         },
+         "geometry":{
+            "coordinates":[
+               -122.426447,
+               37.713464
+            ],
+            "type":"Point"
+         },
+         "id":"cia7l4zzj001njkm3klxlcqqh"
+      }
+   ],
+   "id":"sdukes.m8434ap4"
+}

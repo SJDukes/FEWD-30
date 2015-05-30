@@ -13,14 +13,14 @@
     <main>
       <header class="header">
         <img id="logo" src="images/logo.png" width="140 " height="200" alt="logo" />
-        <div class="form-options">
-          <form class="" action="index.html" method="post">
+        <div>
+          <form class="form-options" action="index.html" method="post">
             <select class="drop-downs" name="select">
               <option value="value1">Small Parks</option>
               <option value="value2" selected>All</option>
               <option value="value3">Big Parks</option>
             </select>
-            <select class="drop-downs" name="select">
+            <select class="drop-downs dog-size" name="select">
               <option value="value1">Small Dogs</option>
               <option value="value2" selected>All</option>
               <option value="value3">Big Dogs</option>
@@ -76,7 +76,13 @@
         // console.log(data);
      });
 
-     function greatAcres () {
+     
+
+
+
+
+
+     function bigParks () {
        geoJsonLayer.clearLayers()
      $.get('https://a.tiles.mapbox.com/v4/sdukes.m8434ap4/features.json?access_token=' + accessToken, function(Acres) {
        console.log(Acres);
@@ -96,7 +102,7 @@
    }
 
 
-   function smallAcres () {
+   function smallParks () {
      geoJsonLayer.clearLayers()
    $.get('https://a.tiles.mapbox.com/v4/sdukes.m8434ap4/features.json?access_token=' + accessToken, function(Acres) {
      console.log(Acres);
@@ -115,7 +121,81 @@
    });
  }
 
+ function smallDogs () {
+   geoJsonLayer.clearLayers()
+ $.get('https://a.tiles.mapbox.com/v4/sdukes.m8434ap4/features.json?access_token=' + accessToken, function(Acres) {
+   console.log(Acres);
+   var featureCollection = {
+     features: [],
+     type: "FeatureCollection"
+   };
 
+    for (var i = 0; i < Acres.features.length; i++) {
+      if (Acres.features[i].properties.ParkServiceArea === "PSA 1" || Acres.features[i].properties.ParkType === "Mini Park") {
+        featureCollection.features.push(Acres.features[i]);
+      }
+    }
+
+    L.geoJson(featureCollection).addTo(map);
+ });
+}
+
+function bigDogs () {
+  geoJsonLayer.clearLayers()
+$.get('https://a.tiles.mapbox.com/v4/sdukes.m8434ap4/features.json?access_token=' + accessToken, function(Acres) {
+  console.log(Acres);
+  var featureCollection = {
+    features: [],
+    type: "FeatureCollection"
+  };
+
+   for (var i = 0; i < Acres.features.length; i++) {
+     if (Acres.features[i].properties.ParkServiceArea === "PSA 1" || Acres.features[i].properties.ParkType === "Regional Park") {
+       featureCollection.features.push(Acres.features[i]);
+     }
+   }
+
+   L.geoJson(featureCollection).addTo(map);
+ });
+}
+
+function offLeash () {
+  geoJsonLayer.clearLayers()
+$.get('https://a.tiles.mapbox.com/v4/sdukes.m8434ap4/features.json?access_token=' + accessToken, function(Acres) {
+  console.log(Acres);
+  var featureCollection = {
+    features: [],
+    type: "FeatureCollection"
+  };
+
+   for (var i = 0; i < Acres.features.length; i++) {
+     if (Acres.features[i].properties.ParkType !== "Neighborhood Park or Playground" && Acres.features[i].properties.Acreage > 1) {
+       featureCollection.features.push(Acres.features[i]);
+     }
+   }
+
+   L.geoJson(featureCollection).addTo(map);
+ });
+}
+
+function onLeash () {
+  geoJsonLayer.clearLayers()
+$.get('https://a.tiles.mapbox.com/v4/sdukes.m8434ap4/features.json?access_token=' + accessToken, function(Acres) {
+  console.log(Acres);
+  var featureCollection = {
+    features: [],
+    type: "FeatureCollection"
+  };
+
+   for (var i = 0; i < Acres.features.length; i++) {
+     if (Acres.features[i].properties.ParkType === "Neighborhood Park or Playground" && Acres.features[i].properties.Acreage < 1) {
+       featureCollection.features.push(Acres.features[i]);
+     }
+   }
+
+   L.geoJson(featureCollection).addTo(map);
+ });
+}
      map.locate({ setView: true });
     </script>
   </body>

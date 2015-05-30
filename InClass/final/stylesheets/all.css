@@ -37,19 +37,23 @@ header {
   font-size: 25px;
   display: block;
   text-align: center;
-  padding: 10px 10px;
+  padding: 50px 10px;
   margin: auto;
   margin-top: 10px;
 }
 
 .form-options  {
   padding: 5px;
-  margin: 10px;
+  margin: 20px 10px 0px 10px ;
   text-align: center;
 }
 
 .drop-downs {
-font-size: 25px;
+  font-size: 25px;
+}
+
+.drop-downs.dog-size {
+margin: 0px 10px;
 }
 
 #map {
