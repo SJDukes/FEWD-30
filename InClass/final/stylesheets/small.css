@@ -1,0 +1,15 @@
+header {
+  position: static;
+  margin: auto;
+  width: auto;
+  margin: 20px;
+}
+
+main {
+  position: static;
+  margin: 20px;
+}
+
+#map {
+  height: 600px;
+}

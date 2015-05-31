@@ -2,19 +2,26 @@ html {
   background-image: url(../images/background.png);
   background-size: cover;
   background-color: green;
+  font-family: courier;
 }
 
 body {
   margin: 0;
-  min-width: 400px;
-}
-
-main {
-
-
+  min-width: 40px;
 }
 
 header {
+  width: 160px;
+  padding: 10px;
+  background-color: gray;
+  background:rgba(0,0,0,0.5);
+  border-radius: 10px;
+  border-color: green;
+  margin-top: 20px;
+  margin-left: 20px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, .5);
+}
+/*header {
   background-color: gray;
   background:rgba(0,0,0,0.5);
   margin: auto;
@@ -24,51 +31,78 @@ header {
   max-width: 360px;
   margin-top: 5px;
   box-shadow: 0 2px 10px rgba(0, 0, 0, .5);
+}*/
+
+.labelHeader {
+  font-size: 20px;
+  margin-top: 5px;
+
 }
 
 #logo{
-  margin: auto;
+
   display: block;
   border-radius: 15px;
   box-shadow: 0 2px 10px rgba(0, 0, 0, 1);
+  margin: 0 auto;
 }
 
 .buttons {
   font-size: 25px;
   display: block;
   text-align: center;
-  padding: 50px 10px;
+  padding: 5px 10px;
   margin: auto;
-  margin-top: 10px;
+  margin-top: 15px;
+  border-style: solid;
+  border-color: white;
+  border-radius: 15px;
+  color: inherit;
+  background:rgba(0,80,0,1);
+  font-family: inherit;
 }
 
 .form-options  {
   padding: 5px;
-  margin: 20px 10px 0px 10px ;
-  text-align: center;
+  margin-left: 5px ;
+  color: white;
+
 }
 
-.drop-downs {
-  font-size: 25px;
+.radioButton {
+  margin-left: 10px;
+  margin-top: 5px;
 }
 
-.drop-downs.dog-size {
-margin: 0px 10px;
+.radioButton input {
+  margin-right: 5px;
+}
+
+label {
+  display: block;
+}
+
+main {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  bottom: 20px;
+  left: 210px;
 }
 
 #map {
-  height: 500px;
-  max-width: 700px;
-  max-height: 500px;
-  margin: 0 auto;
-  padding: 30px;
+  /*max-width: 800px;
+  max-height: 600px;*/
   background-color: white;
-  margin-top: 40px;
+  /*margin-top: 60px;
   margin-bottom: 40px;
+  margin-left: 210px;*/
   border: 1px solid #C7C7C7;
   border-radius: 9px;
   box-shadow: 0 2px 10px rgba(0, 0, 0, 2);
   z-index: 0;
+  height: 100%;
+  width: 100%;
 }
 
 p {

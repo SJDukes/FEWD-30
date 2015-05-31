@@ -1,0 +1,156 @@
+<!Doctype HTML>
+<html>
+  <head>
+    <title>BarkPark</title>
+    <link rel="stylesheet" href="stylesheets/all_v1.css" media="screen">
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+
+
+  </head>
+  <body>
+    <main>
+      <header class="header">
+        <img id="logo" src="images/logo.png" width="140 " height="200" alt="logo" />
+        <div>
+          <form class="form-options" action="index.html" method="post">
+            <select class="drop-downs park-size" name="select">
+              <option value="Small Parks">Small Parks</option>
+              <option value="All" selected>All</option>
+              <option value="Big Parks">Big Parks</option>
+            </select>
+            <select class="drop-downs dog-size" name="select">
+              <option value="Small Dogs">Small Dogs</option>
+              <option value="All" selected>All</option>
+              <option value="Big Dogs">Big Dogs</option>
+            </select>
+            <select class="drop-downs leash" name="select">
+              <option value="On Leash">On Leash</option>
+              <option value="All" selected>All</option>
+              <option value="Off Leash">Off Leash</option>
+            </select>
+            <input class="buttons"type="submit" value="Submit">
+          </form>
+        </div>
+      </header>
+      <div id="map">
+
+      </div>
+    </main>
+    <footer><p>
+      Woof! 2015
+    </p></footer>
+
+    <script type="text/javascript">
+    var map = L.map('map', {
+        center: [37.749, -122.443],
+        zoom: 12
+    });
+
+    var accessToken = 'pk.eyJ1Ijoic2R1a2VzIiwiYSI6ImZuTW80czQifQ.3pf72TkZauDP9mbYqlcIXQ';
+    var url = 'https://{s}.tiles.mapbox.com/v4/sdukes.m8434ap4/{z}/{x}/{y}.png?access_token=' + accessToken;
+    var tileLayer = L.tileLayer(url, {
+       attribution: '<a href="http://www.mapbox.com/about/maps/" target="_blank">Terms &amp; Feedback</a>'
+     }).addTo(map);
+     var geoJsonLayer;
+     $.get('https://a.tiles.mapbox.com/v4/sdukes.m8434ap4/features.json?access_token=' + accessToken, function(data) {
+         // Now that we've got our data we can just let leaflet read it and add it to the map
+         geoJsonLayer = L.geoJson(data, {
+           onEachFeature: function(feature, layer) {
+             layer.bindPopup(feature.properties.title + ' ' +
+             '<br>' + feature.properties.description +
+             '<br>' + feature.properties.Acreage + ' Acres'
+             );
+           },
+            //  style: function(feature) {
+            //    var color = 'blue';
+            //    if (feature.properties.marker-color === '63b6e5') {
+            //      color = 'orange';
+            //    }
+            //    return{
+            //      color: color
+            //    }
+            //  }
+         }).addTo(map);
+        // console.log(data);
+     });
+
+    var formSubmit = document.querySelector(".form-options");
+
+    function submitClicked(clickEvent) {
+      event.preventDefault();
+        var parkSize = document.querySelector(".park-size");
+        var dogSize = document.querySelector(".dog-size");
+        var leash = document.querySelector(".leash");
+
+        //create object
+        //determine what size parks the user is looking for
+        //determine what kind of dogs they want to be around
+        //determine if they are looking for on or off leash parks
+        var userInput = {
+          parkSize: parkSize.value,
+          dogSize: dogSize.value,
+          leash: leash.value
+        }
+
+        updateParks(userInput)
+
+    }
+
+    formSubmit.addEventListener("submit", submitClicked);
+
+    function updateParks (userInput) {
+      geoJsonLayer.clearLayers()
+      $.get('https://a.tiles.mapbox.com/v4/sdukes.m8434ap4/features.json?access_token=' + accessToken, function(Acres) {
+        console.log(Acres);
+        var featureCollection = {
+          features: [],
+          type: "FeatureCollection"
+        };
+
+        // filter data based on userInput
+        for (var i = 0; i < Acres.features.length; i++) {
+          var isBigPark = Acres.features[i].properties.Acreage > 1;
+          var isBigDog = Acres.features[i].properties.ParkServiceArea === "PSA 1" || Acres.features[i].properties.ParkType === "Regional Park";
+          var isOffLeash = Acres.features[i].properties.ParkType !== "Neighborhood Park or Playground" && Acres.features[i].properties.Acreage > 1;
+
+          var parkMatches = true;
+            if (userInput.parkSize !=="All") {
+              if (userInput.parkSize === "Small Parks" && isBigPark) {
+                parkMatches = false;
+              } else if (userInput.parkSize === "Big Parks" && !isBigPark) {
+                parkMatches = false;
+              }
+            }
+
+          var dogMatches = true;
+           if (userInput.dogSize !=="All") {
+            if (userInput.dogSize === "Small Dogs" && isBigDog) {
+              dogMatches = false;
+            } else if (userInput.dogSize === "Big Dogs" && !isBigDog) {
+              dogMatches = false;
+            }
+          }
+
+          var leashMatches = true;
+           if (userInput.leash !=="All") {
+            if (userInput.leash === "On Leash" && isOffLeash) {
+              leashMatches = false;
+            } else if (userInput.leash === "Off Leash" && !isOffLeash) {
+              leashMatches = false;
+            }
+          }
+
+          //Bring all the critria together and only show parks that match all criteria provided
+          if (parkMatches && leashMatches && dogMatches) {
+            featureCollection.features.push(Acres.features[i]);
+          }
+        }
+
+         geoJsonLayer.addData(featureCollection);
+       });
+    }
+    </script>
+  </body>
+</html>

@@ -4,6 +4,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"10TH AVE/CLEMENT MINI PARK",
             "ParkType":"Mini Park",
             "ParkServiceArea":"PSA 1",
@@ -35,6 +36,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"15TH AVENUE STEPS",
             "ParkType":"Mini Park",
             "ParkServiceArea":"PSA 4",
@@ -66,6 +68,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"ALIOTO MINI PARK",
             "ParkType":"Mini Park",
             "ParkServiceArea":"PSA 6",
@@ -97,6 +100,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"BEIDEMAN/O'FARRELL MINI PARK",
             "ParkType":"Mini Park",
             "ParkServiceArea":"PSA 2",
@@ -128,6 +132,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"BROADWAY TUNNEL WEST MINI PARK",
             "ParkType":"Mini Park",
             "ParkServiceArea":"PSA 1",
@@ -159,6 +164,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"BROTHERHOOD/CHESTER MINI PARK",
             "ParkType":"Mini Park",
             "ParkServiceArea":"PSA 4",
@@ -190,6 +196,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"BUSH/BRODERICK MINI PARK",
             "ParkType":"Mini Park",
             "ParkServiceArea":"PSA 2",
@@ -221,6 +228,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"CAYUGA/LAMARTINE MINI PARK",
             "ParkType":"Mini Park",
             "ParkServiceArea":"PSA 5",
@@ -252,6 +260,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"COLERIDGE MINI PARK",
             "ParkType":"Mini Park",
             "ParkServiceArea":"PSA 6",
@@ -283,6 +292,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"COSO/PRECITA MINI PARK",
             "ParkType":"Mini Park",
             "ParkServiceArea":"PSA 6",
@@ -314,6 +324,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"COTTAGE ROW MINI PARK",
             "ParkType":"Mini Park",
             "ParkServiceArea":"PSA 2",
@@ -345,6 +356,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"FILLMORE/TURK MINI PARK",
             "ParkType":"Mini Park",
             "ParkServiceArea":"PSA 2",
@@ -376,6 +388,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"GENEVA AVENUE STRIP",
             "ParkType":"Mini Park",
             "ParkServiceArea":"PSA 5",
@@ -407,6 +420,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"GOLDEN GATE/STEINER MINI PARK",
             "ParkType":"Mini Park",
             "ParkServiceArea":"PSA 2",
@@ -438,6 +452,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"GUY PLACE MINI PARK",
             "ParkType":"Mini Park",
             "ParkServiceArea":"PSA 2",
@@ -469,6 +484,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"HEAD/BROTHERHOOD MINI PARK",
             "ParkType":"Mini Park",
             "ParkServiceArea":"PSA 4",
@@ -500,6 +516,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"HYDE/VALLEJO MINI PARK",
             "ParkType":"Mini Park",
             "ParkServiceArea":"PSA 1",
@@ -531,6 +548,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"INA COOLBRITH MINI PARK",
             "ParkType":"Mini Park",
             "ParkServiceArea":"PSA 1",
@@ -561,6 +579,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"24TH/YORK MINI PARK",
             "ParkType":"Mini Park",
             "ParkServiceArea":"PSA 6",
@@ -592,6 +611,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"LINCOLN PARK",
             "ParkType":"Regional Park",
             "ParkServiceArea":"PSA 1",
@@ -623,6 +643,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"BUENA VISTA PARK",
             "ParkType":"Regional Park",
             "ParkServiceArea":"PSA 5",
@@ -654,6 +675,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"ADAM ROGERS PARK",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 3",
@@ -685,6 +707,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"ALAMO SQUARE",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 2",
@@ -716,6 +739,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"ALICE CHALMERS PLAYGROUND",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 3",
@@ -747,6 +771,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"ALICE MARBLE TENNIS COURTS",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 1",
@@ -778,6 +803,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"ALLYNE PARK",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 1",
@@ -809,6 +835,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"ALTA PLAZA",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 1",
@@ -840,6 +867,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"ANGELO J. ROSSI PLAYGROUND",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 1",
@@ -871,6 +899,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"APTOS PLAYGROUND",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 4",
@@ -902,6 +931,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"ARGONNE PLAYGROUND",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 1",
@@ -933,6 +963,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"BALBOA NATURAL AREA",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 1",
@@ -964,6 +995,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"BALBOA PARK",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 5",
@@ -995,6 +1027,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"BAY VIEW PLAYGROUND",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 3",
@@ -1026,6 +1059,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"BERKELEY WAY OPEN SPACE",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 5",
@@ -1057,6 +1091,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"BERNAL HEIGHTS RECREATION CENTER",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 6",
@@ -1088,6 +1123,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"BILLY GOAT HILL",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 5",
@@ -1119,6 +1155,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"29TH/DIAMOND OPEN SPACE",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 5",
@@ -1150,6 +1187,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"BUCHANAN STREET MALL",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 2",
@@ -1181,6 +1219,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"CABRILLO PLAYGROUND",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 1",
@@ -1211,6 +1250,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"BROOKS PARK",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 4",
@@ -1242,6 +1282,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"CARL LARSEN PARK",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 4",
@@ -1273,6 +1314,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"CHINESE RECREATION CENTER",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 1",
@@ -1304,6 +1346,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"CORONA HEIGHTS",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 5",
@@ -1335,6 +1378,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"COW HOLLOW PLAYGROUND",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 1",
@@ -1366,6 +1410,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"CROCKER AMAZON PLAYGROUND",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 3",
@@ -1397,6 +1442,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"DIAMOND/FARNUM OPEN SPACE",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 5",
@@ -1428,6 +1474,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"DOROTHY ERSKINE PARK",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 5",
@@ -1459,6 +1506,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"DOUGLASS PLAYGROUND",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 5",
@@ -1490,6 +1538,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"DUBOCE PARK",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 6",
@@ -1521,6 +1570,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"CAYUGA PLAYGROUND",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 3",
@@ -1552,6 +1602,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"DUPONT COURTS",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 1",
@@ -1583,6 +1634,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"EDGEHILL MOUNTAIN",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 4",
@@ -1614,6 +1666,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"EUREKA VALLEY REC CENTER",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 5",
@@ -1645,6 +1698,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"EVERSON/DIGBY LOTS",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 5",
@@ -1676,6 +1730,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"EXCELSIOR PLAYGROUND",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 3",
@@ -1707,6 +1762,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"FAIRMOUNT PLAZA",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 6",
@@ -1738,6 +1794,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"FATHER ALFRED E. BOEDDEKER PARK",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 2",
@@ -1769,6 +1826,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"FAY PARK",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 1",
@@ -1799,6 +1857,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"DUNCAN/CASTRO OPEN SPACE",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 5",
@@ -1830,6 +1889,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"FULTON PLAYGROUND",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 1",
@@ -1861,6 +1921,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"GARFIELD SQUARE",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 6",
@@ -1892,6 +1953,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"GENE FRIEND REC CENTER",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 2",
@@ -1923,6 +1985,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"GEORGE CHRISTOPHER PLAYGROUND",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 5",
@@ -1954,6 +2017,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"GILMAN PLAYGROUND",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 3",
@@ -1985,6 +2049,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"GOLDEN GATE HEIGHTS PARK",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 4",
@@ -2016,6 +2081,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"GRAND VIEW OPEN SPACE",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 4",
@@ -2047,6 +2113,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"GRAND VIEW PARK",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 4",
@@ -2078,6 +2145,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"GRATTAN PLAYGROUND",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 2",
@@ -2109,6 +2177,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"HAMILTON REC CENTER",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 2",
@@ -2140,6 +2209,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"HAWK HILL",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 4",
@@ -2171,6 +2241,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"HAYES VALLEY PLAYGROUND",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 2",
@@ -2202,6 +2273,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"HELEN WILLS PLAYGROUND",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 1",
@@ -2233,6 +2305,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"HERZ PLAYGROUND",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 3",
@@ -2264,6 +2337,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"HILLTOP PARK",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 3",
@@ -2295,6 +2369,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"Hunter's Point Recreation Center",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 3",
@@ -2326,6 +2401,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"INDIA BASIN SHORELINE PARK",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 3",
@@ -2357,6 +2433,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"INTERIOR GREEN BELT",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 4",
@@ -2388,6 +2465,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"J. P. MURPHY PLAYGROUND",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 4",
@@ -2418,6 +2496,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"LAFAYETTE PARK",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 1",
@@ -2449,6 +2528,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"JAMES ROLPH JR PLAYGROUND",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 6",
@@ -2480,6 +2560,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"JOSE CORONADO PLAYGROUND",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 6",
@@ -2511,6 +2592,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"JOSEPH LEE RECREATION CENTER",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 3",
@@ -2542,6 +2624,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"JULIUS KAHN PLAYGROUND",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 1",
@@ -2573,6 +2656,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"JUNIPERO SERRA PLAYGROUND",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 4",
@@ -2604,6 +2688,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"KID POWER PARK",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 6",
@@ -2635,6 +2720,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"KITE HILL",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 5",
@@ -2666,6 +2752,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"KOSHLAND PARK",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 2",
@@ -2697,6 +2784,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"JOE DIMAGGIO PLAYGROUND",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 1",
@@ -2728,6 +2816,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"LAUREL HILL PLAYGROUND",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 1",
@@ -2759,6 +2848,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"LITTLE HOLLYWOOD PARK",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 3",
@@ -2790,6 +2880,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"LOUIS SUTTER PLAYGROUND",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 3",
@@ -2821,6 +2912,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"MARGARET S HAYWARD PLAYGROUND",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 2",
@@ -2852,6 +2944,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"MCCOPPIN SQUARE",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 4",
@@ -2883,6 +2976,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"MCKINLEY SQUARE",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 2",
@@ -2914,6 +3008,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"MERCED HEIGHTS PLAYGROUND",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 4",
@@ -2945,6 +3040,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"MICHELANGELO PLAYGROUND",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 1",
@@ -2975,6 +3071,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"JEFFERSON SQUARE",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 2",
@@ -3006,6 +3103,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"MINNIE & LOVIE WARD REC CENTER",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 4",
@@ -3037,6 +3135,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"MIRALOMA PLAYGROUND",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 5",
@@ -3068,6 +3167,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"MISSION DOLORES PARK",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 6",
@@ -3099,6 +3199,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"MISSION PLAYGROUND",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 6",
@@ -3130,6 +3231,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"MISSION REC CENTER",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 6",
@@ -3161,6 +3263,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"MOSCONE RECREATION CENTER",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 1",
@@ -3192,6 +3295,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"MOUNTAIN LAKE PARK",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 1",
@@ -3223,6 +3327,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"NOE VALLEY COURTS",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 5",
@@ -3254,6 +3359,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"PALEGA RECREATION CENTER",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 3",
@@ -3285,6 +3391,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"PALOU/PHELPS PARK",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 3",
@@ -3316,6 +3423,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"PARKSIDE SQUARE",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 4",
@@ -3347,6 +3455,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"PARQUE NINOS UNIDOS",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 6",
@@ -3378,6 +3487,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"PEIXOTTO PLAYGROUND",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 5",
@@ -3409,6 +3519,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"PORTSMOUTH SQUARE",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 1",
@@ -3440,6 +3551,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"POTRERO DEL SOL PARK",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 6",
@@ -3471,6 +3583,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"POTRERO HILL RECREATION CENTER",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 2",
@@ -3502,6 +3615,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"PRECITA PARK",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 6",
@@ -3533,6 +3647,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"PRESIDIO HEIGHTS PLAYGROUND",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 1",
@@ -3564,6 +3679,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"RAYMOND KIMBELL PLAYGROUND",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 2",
@@ -3594,6 +3710,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"TANK HILL",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 5",
@@ -3625,6 +3742,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"RICHMOND RECREATION CENTER",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 1",
@@ -3656,6 +3774,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"ROCK OUTCROPPING",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 4",
@@ -3687,6 +3806,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"ROLPH NICOL PLAYGROUND",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 4",
@@ -3718,6 +3838,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"RUSSIAN HILL OPEN SPACE",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 1",
@@ -3749,6 +3870,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"SILVER TERRACE PLAYGROUND",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 3",
@@ -3780,6 +3902,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"SOUTH PARK",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 2",
@@ -3811,6 +3934,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"SOUTH SUNSET PLAYGROUND",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 4",
@@ -3842,6 +3966,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"ST MARY'S REC CENTER",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 6",
@@ -3873,6 +3998,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"STATES STREET PLAYGROUND",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 5",
@@ -3904,6 +4030,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"SUE BIERMAN PARK",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 1",
@@ -3935,6 +4062,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"SUNNYSIDE PLAYGROUND",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 5",
@@ -3966,6 +4094,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"SUNSET PLAYGROUND",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 4",
@@ -3997,6 +4126,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"ROCHAMBEAU PLAYGROUND",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 1",
@@ -4028,6 +4158,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"TENDERLOIN CHILDREN'S REC CENTER",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 2",
@@ -4059,6 +4190,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"UPPER NOE RECREATION CENTER",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 5",
@@ -4090,6 +4222,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"VICTORIA MANALO DRAVES PARK",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 2",
@@ -4121,6 +4254,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"WEST PORTAL PLAYGROUND",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 4",
@@ -4152,6 +4286,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"WEST SUNSET PLAYGROUND",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 4",
@@ -4183,6 +4318,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"WOH HEI YUEN PARK",
             "ParkType":"Neighborhood Park or Playground",
             "ParkServiceArea":"PSA 1",
@@ -4213,6 +4349,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"LINCOLN PARK",
             "ParkType":"Regional Park",
             "ParkServiceArea":"PSA 1",
@@ -4244,6 +4381,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"SIGMUND STERN RECREATION GROVE",
             "ParkType":"Regional Park",
             "ParkServiceArea":"PSA 4",
@@ -4275,6 +4413,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"BUENA VISTA PARK",
             "ParkType":"Regional Park",
             "ParkServiceArea":"PSA 5",
@@ -4306,6 +4445,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"GLEN PARK",
             "ParkType":"Regional Park",
             "ParkServiceArea":"PSA 5",
@@ -4337,6 +4477,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"JOHN MCLAREN PARK",
             "ParkType":"Regional Park",
             "ParkServiceArea":"PSA 3",
@@ -4368,6 +4509,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"LINCOLN PARK",
             "ParkType":"Regional Park",
             "ParkServiceArea":"PSA 1",
@@ -4399,6 +4541,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "ParkName":"SIGMUND STERN RECREATION GROVE",
             "ParkType":"Regional Park",
             "ParkServiceArea":"PSA 4",
@@ -4429,6 +4572,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "id":"marker-ia7kwssh9",
             "title":"PINE LAKE PARK",
             "description":"Sloat Blvd\nSan Francisco, CA\n(37.7363086, -122.48592744)",
@@ -4448,6 +4592,7 @@
       {
          "type":"Feature",
          "properties":{
+
             "id":"marker-ia7ksvl47",
             "title":"",
             "description":"",
