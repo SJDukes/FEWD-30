@@ -13,3 +13,16 @@ main {
 #map {
   height: 600px;
 }
+
+.like {
+  display: none;
+}
+
+.radioButton {
+  display: inline;
+  margin-right: -2px;
+}
+
+.labelHeader {
+  padding-bottom: 5px;
+}
